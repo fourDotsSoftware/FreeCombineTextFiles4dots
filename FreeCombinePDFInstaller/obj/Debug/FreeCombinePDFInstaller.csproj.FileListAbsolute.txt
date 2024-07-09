@@ -1,0 +1,16 @@
+C:\code\Other\FreeCombinePDF\FreeCombinePDFInstaller\bin\Debug\FreeCombinePDFInstaller.exe
+C:\code\Other\FreeCombinePDF\FreeCombinePDFInstaller\bin\Debug\FreeCombinePDFInstaller.pdb
+C:\code\Other\FreeCombinePDF\FreeCombinePDFInstaller\obj\Debug\FreeCombinePDFInstaller.csprojResolveAssemblyReference.cache
+C:\code\Other\FreeCombinePDF\FreeCombinePDFInstaller\obj\Debug\FreeCombinePDFInstaller.exe
+C:\code\Other\FreeCombinePDF\FreeCombinePDFInstaller\obj\Debug\FreeCombinePDFInstaller.pdb
+c:\code\File Utilities\FreeCombinePDF\FreeCombinePDFInstaller\bin\Debug\FreeCombinePDFInstaller.exe
+c:\code\File Utilities\FreeCombinePDF\FreeCombinePDFInstaller\bin\Debug\FreeCombinePDFInstaller.pdb
+c:\code\File Utilities\FreeCombinePDF\FreeCombinePDFInstaller\obj\Debug\FreeCombinePDFInstaller.csprojResolveAssemblyReference.cache
+c:\code\File Utilities\FreeCombinePDF\FreeCombinePDFInstaller\obj\Debug\FreeCombinePDFInstaller.exe
+c:\code\File Utilities\FreeCombinePDF\FreeCombinePDFInstaller\obj\Debug\FreeCombinePDFInstaller.pdb
+C:\code\PDF Tools\FreeCombineTextFiles4dots\FreeCombinePDFInstaller\bin\Debug\FreeCombinePDFInstaller.exe
+C:\code\PDF Tools\FreeCombineTextFiles4dots\FreeCombinePDFInstaller\bin\Debug\FreeCombinePDFInstaller.pdb
+C:\code\PDF Tools\FreeCombineTextFiles4dots\FreeCombinePDFInstaller\obj\Debug\FreeCombinePDFInstaller.exe
+C:\code\PDF Tools\FreeCombineTextFiles4dots\FreeCombinePDFInstaller\obj\Debug\FreeCombinePDFInstaller.pdb
+c:\code\PDF Tools\FreeCombineTextFiles4dots\FreeCombinePDFInstaller\obj\Debug\FreeCombinePDFInstaller.csprojAssemblyReference.cache
+c:\code\PDF Tools\FreeCombineTextFiles4dots\FreeCombinePDFInstaller\obj\Debug\FreeCombinePDFInstaller.csproj.CoreCompileInputs.cache

@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Error could not start log writer !" xml:space="preserve">
+    <value>Error could not start log writer !</value>
+  </data>
+  <data name="Please specify PDF Files to combine !" xml:space="preserve">
+    <value>Please specify PDF Files to combine !</value>
+  </data>
+  <data name="Error could not parse Arguments !" xml:space="preserve">
+    <value>Error could not parse Arguments !</value>
+  </data>
+  <data name="Invalid Wildcards or Regular Expression for File Filter !" xml:space="preserve">
+    <value>Invalid Wildcards or Regular Expression for File Filter !</value>
+  </data>
+  <data name="Unspecified Error" xml:space="preserve">
+    <value>Unspecified Error</value>
+  </data>
+  <data name="The application will now exit and run the updated setup file" xml:space="preserve">
+    <value>The application will now exit and run the updated setup file</value>
+  </data>
+  <data name="Please wait for the application to download the update !" xml:space="preserve">
+    <value>Please wait for the application to download the update !</value>
+  </data>
+  <data name="Error could not download update !" xml:space="preserve">
+    <value>Error could not download update !</value>
+  </data>
+  <data name="Error. Could not run new Setup File !" xml:space="preserve">
+    <value>Error. Could not run new Setup File !</value>
+  </data>
+  <data name="Error ! Download Timeout !" xml:space="preserve">
+    <value>Error ! Download Timeout !</value>
+  </data>
+  <data name="lastversion=" xml:space="preserve">
+    <value>lastversion=</value>
+  </data>
+  <data name="languagesdownloaded=" xml:space="preserve">
+    <value>languagesdownloaded=</value>
+  </data>
+  <data name="Error Could not change Language !" xml:space="preserve">
+    <value>Error Could not change Language !</value>
+  </data>
+  <data name="Change PDF Properties" xml:space="preserve">
+    <value>Change PDF Properties</value>
+  </data>
+  <data name="Please restart the application !" xml:space="preserve">
+    <value>Please restart the application !</value>
+  </data>
+  <data name="Is From Windows Explorer" xml:space="preserve">
+    <value>Is From Windows Explorer</value>
+  </data>
+  <data name="Please specify an output file !" xml:space="preserve">
+    <value>Please specify an output file !</value>
+  </data>
+  <data name="Please specify at least two Documents to merge !" xml:space="preserve">
+    <value>Please specify at least two Documents to merge !</value>
+  </data>
+  <data name="Please specify prefix or suffix for output filename !" xml:space="preserve">
+    <value>Please specify prefix or suffix for output filename !</value>
+  </data>
+  <data name="Error ! Cannot join each file of the folder separately(intro + file + outro) together with the option `Create one Text document for each folder and subfolders` or `Create one Text document for each root folder` or `Create one Text document for each file extension`" xml:space="preserve">
+    <value>Error ! Cannot join each file of the folder separately(intro + file + outro) together with the option `Create one Text document for each folder and subfolders` or `Create one Text document for each root folder` or `Create one Text document for each file extension`</value>
+  </data>
+  <data name="Operation stopped !" xml:space="preserve">
+    <value>Operation stopped !</value>
+  </data>
+  <data name="Operation completed" xml:space="preserve">
+    <value>Operation completed</value>
+  </data>
+  <data name="Please specify another option as the Output Folder !" xml:space="preserve">
+    <value>Please specify another option as the Output Folder !</value>
+  </data>
+  <data name="Same Folder of Text Document" xml:space="preserve">
+    <value>Same Folder of Text Document</value>
+  </data>
+  <data name="Subfolder" xml:space="preserve">
+    <value>Subfolder</value>
+  </data>
+  <data name="Error could not combine Files !" xml:space="preserve">
+    <value>Error could not combine Files !</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="Documents" xml:space="preserve">
+    <value>Documents</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="Are you sure that you want clear the added files ?" xml:space="preserve">
+    <value>Are you sure that you want clear the added files ?</value>
+  </data>
+  <data name="Clear Added Files ?" xml:space="preserve">
+    <value>Clear Added Files ?</value>
+  </data>
+  <data name="Error while processing List !" xml:space="preserve">
+    <value>Error while processing List !</value>
+  </data>
+  <data name="Error wrong file type !" xml:space="preserve">
+    <value>Error wrong file type !</value>
+  </data>
+  <data name="Error. File or Directory not found !" xml:space="preserve">
+    <value>Error. File or Directory not found !</value>
+  </data>
+  <data name="Error could not read file !" xml:space="preserve">
+    <value>Error could not read file !</value>
+  </data>
+  <data name="Please add only Word Files !" xml:space="preserve">
+    <value>Please add only Word Files !</value>
+  </data>
+  <data name="Join each file of the folder separately (intro + file + outro) ?" xml:space="preserve">
+    <value>Join each file of the folder separately (intro + file + outro) ?</value>
+  </data>
+  <data name="Add Subdirectories ?" xml:space="preserve">
+    <value>Add Subdirectories ?</value>
+  </data>
+  <data name="Trial Version - Unlicensed - Please Buy !" xml:space="preserve">
+    <value>Trial Version - Unlicensed - Please Buy !</value>
+  </data>
+  <data name="Licensed Version" xml:space="preserve">
+    <value>Licensed Version</value>
+  </data>
+  <data name="Free for Personal Use Only - Please Donate !" xml:space="preserve">
+    <value>Free for Personal Use Only - Please Donate !</value>
+  </data>
+  <data name="Free for Personal and Commercial Use - Please Donate !" xml:space="preserve">
+    <value>Free for Personal and Commercial Use - Please Donate !</value>
+  </data>
+  <data name="Subfolder of Text Document" xml:space="preserve">
+    <value>Subfolder of Text Document</value>
+  </data>
+  <data name="Operation completed with errors !" xml:space="preserve">
+    <value>Operation completed with errors !</value>
+  </data>
+  <data name="Would you like to add also Subdirectories ?" xml:space="preserve">
+    <value>Would you like to add also Subdirectories ?</value>
+  </data>
+  <data name="Command Line Arguments" xml:space="preserve">
+    <value>Command Line Arguments</value>
+  </data>
+  <data name="The directory or file specified does not exist ! Path : " xml:space="preserve">
+    <value>The directory or file specified does not exist ! Path : </value>
+  </data>
+  <data name="Please insert at least one valid File or Folder !" xml:space="preserve">
+    <value>Please insert at least one valid File or Folder !</value>
+  </data>
+  <data name="Error. Could not specify if Application will start automatically with Windows" xml:space="preserve">
+    <value>Error. Could not specify if Application will start automatically with Windows</value>
+  </data>
+  <data name="Please enter a Subfolder Name !" xml:space="preserve">
+    <value>Please enter a Subfolder Name !</value>
+  </data>
+  <data name="Please enter a valid Subfolder Name !" xml:space="preserve">
+    <value>Please enter a valid Subfolder Name !</value>
+  </data>
+  <data name="Please specify Proxy Host !" xml:space="preserve">
+    <value>Please specify Proxy Host !</value>
+  </data>
+  <data name="Please specify Proxy Port !" xml:space="preserve">
+    <value>Please specify Proxy Port !</value>
+  </data>
+  <data name="Please specify valid Proxy Port !" xml:space="preserve">
+    <value>Please specify valid Proxy Port !</value>
+  </data>
+  <data name="Please specify Proxy Username !" xml:space="preserve">
+    <value>Please specify Proxy Username !</value>
+  </data>
+  <data name="Great application to combine Text Files !" xml:space="preserve">
+    <value>Great application to combine Text Files !</value>
+  </data>
+  <data name="Overwrite PDF Document" xml:space="preserve">
+    <value>Overwrite PDF Document</value>
+  </data>
+  <data name="Include" xml:space="preserve">
+    <value>Include</value>
+  </data>
+  <data name="Exclude" xml:space="preserve">
+    <value>Exclude</value>
+  </data>
+  <data name="A new version has been released. Press the OK button to download the new version" xml:space="preserve">
+    <value>A new version has been released. Press the OK button to download the new version</value>
+  </data>
+  <data name="This is the latest version !" xml:space="preserve">
+    <value>This is the latest version !</value>
+  </data>
+  <data name="An error occured !" xml:space="preserve">
+    <value>An error occured !</value>
+  </data>
+  <data name="A new version has been released. Would you like to download it now ?" xml:space="preserve">
+    <value>A new version has been released. Would you like to download it now ?</value>
+  </data>
+  <data name="Download new version ?" xml:space="preserve">
+    <value>Download new version ?</value>
+  </data>
+  <data name="It is necessary to upgrade to the latest version of the application. Press the OK button to download the new version" xml:space="preserve">
+    <value>It is necessary to upgrade to the latest version of the application. Press the OK button to download the new version</value>
+  </data>
+  <data name="Error - File not found" xml:space="preserve">
+    <value>Error - File not found</value>
+  </data>
+</root>

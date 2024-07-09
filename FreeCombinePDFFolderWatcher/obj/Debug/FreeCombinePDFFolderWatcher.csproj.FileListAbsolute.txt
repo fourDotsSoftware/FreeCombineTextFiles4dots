@@ -1,0 +1,25 @@
+C:\code\Other\FreeCombinePDF\FreeCombinePDFFolderWatcher\bin\Debug\FreeCombinePDFFolderWatcher.exe
+C:\code\Other\FreeCombinePDF\FreeCombinePDFFolderWatcher\bin\Debug\FreeCombinePDFFolderWatcher.pdb
+C:\code\Other\FreeCombinePDF\FreeCombinePDFFolderWatcher\obj\Debug\FreeCombinePDFFolderWatcher.csprojResolveAssemblyReference.cache
+C:\code\Other\FreeCombinePDF\FreeCombinePDFFolderWatcher\obj\Debug\FreeCombinePDFFolderWatcher.frmMain.resources
+C:\code\Other\FreeCombinePDF\FreeCombinePDFFolderWatcher\obj\Debug\FreeCombinePDFFolderWatcher.Properties.Resources.resources
+C:\code\Other\FreeCombinePDF\FreeCombinePDFFolderWatcher\obj\Debug\FreeCombinePDFFolderWatcher.csproj.GenerateResource.Cache
+C:\code\Other\FreeCombinePDF\FreeCombinePDFFolderWatcher\obj\Debug\FreeCombinePDFFolderWatcher.exe
+C:\code\Other\FreeCombinePDF\FreeCombinePDFFolderWatcher\obj\Debug\FreeCombinePDFFolderWatcher.pdb
+c:\code\File Utilities\FreeCombinePDF\FreeCombinePDFFolderWatcher\bin\Debug\FreeCombinePDFFolderWatcher.exe
+c:\code\File Utilities\FreeCombinePDF\FreeCombinePDFFolderWatcher\bin\Debug\FreeCombinePDFFolderWatcher.pdb
+c:\code\File Utilities\FreeCombinePDF\FreeCombinePDFFolderWatcher\obj\Debug\FreeCombinePDFFolderWatcher.csprojResolveAssemblyReference.cache
+c:\code\File Utilities\FreeCombinePDF\FreeCombinePDFFolderWatcher\obj\Debug\FreeCombinePDFFolderWatcher.frmMain.resources
+c:\code\File Utilities\FreeCombinePDF\FreeCombinePDFFolderWatcher\obj\Debug\FreeCombinePDFFolderWatcher.Properties.Resources.resources
+c:\code\File Utilities\FreeCombinePDF\FreeCombinePDFFolderWatcher\obj\Debug\FreeCombinePDFFolderWatcher.csproj.GenerateResource.Cache
+c:\code\File Utilities\FreeCombinePDF\FreeCombinePDFFolderWatcher\obj\Debug\FreeCombinePDFFolderWatcher.exe
+c:\code\File Utilities\FreeCombinePDF\FreeCombinePDFFolderWatcher\obj\Debug\FreeCombinePDFFolderWatcher.pdb
+C:\code\PDF Tools\FreeCombineTextFiles4dots\FreeCombinePDFFolderWatcher\bin\Debug\FreeCombinePDFFolderWatcher.exe
+C:\code\PDF Tools\FreeCombineTextFiles4dots\FreeCombinePDFFolderWatcher\bin\Debug\FreeCombinePDFFolderWatcher.pdb
+C:\code\PDF Tools\FreeCombineTextFiles4dots\FreeCombinePDFFolderWatcher\obj\Debug\FreeCombinePDFFolderWatcher.frmMain.resources
+C:\code\PDF Tools\FreeCombineTextFiles4dots\FreeCombinePDFFolderWatcher\obj\Debug\FreeCombinePDFFolderWatcher.Properties.Resources.resources
+C:\code\PDF Tools\FreeCombineTextFiles4dots\FreeCombinePDFFolderWatcher\obj\Debug\FreeCombinePDFFolderWatcher.csproj.GenerateResource.Cache
+C:\code\PDF Tools\FreeCombineTextFiles4dots\FreeCombinePDFFolderWatcher\obj\Debug\FreeCombinePDFFolderWatcher.exe
+C:\code\PDF Tools\FreeCombineTextFiles4dots\FreeCombinePDFFolderWatcher\obj\Debug\FreeCombinePDFFolderWatcher.pdb
+c:\code\PDF Tools\FreeCombineTextFiles4dots\FreeCombinePDFFolderWatcher\obj\Debug\FreeCombinePDFFolderWatcher.csprojAssemblyReference.cache
+c:\code\PDF Tools\FreeCombineTextFiles4dots\FreeCombinePDFFolderWatcher\obj\Debug\FreeCombinePDFFolderWatcher.csproj.CoreCompileInputs.cache

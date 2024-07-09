@@ -1,0 +1,36 @@
+// FreeCombinePDFExt.idl : IDL source for FreeCombinePDFExt
+//
+
+// This file will be processed by the MIDL tool to
+// produce the type library (FreeCombinePDFExt.tlb) and marshalling code.
+
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	
+	object,
+	
+	uuid(44FD9E69-EF6F-4F89-BC02-A5EEBA28ECAA),
+	helpstring("IFreeCombinePDFShellExt Interface"),
+	pointer_default(unique)
+]
+interface IFreeCombinePDFShellExt : IUnknown{
+};
+[		
+	uuid(F7018E93-0F35-41BD-BAA9-3164F18A5617),
+	version(1.0),
+	helpstring("FreeCombinePDFExt 1.0 Type Library")
+]
+library FreeCombinePDFExtLib
+{
+	importlib("stdole2.tlb");
+	[			
+		uuid(7B95F48D-A040-472E-8732-438BBE08942F),
+		helpstring("FreeCombinePDFShellExt Class")
+	]
+	coclass FreeCombinePDFShellExt
+	{
+		[default] interface IFreeCombinePDFShellExt;
+	};
+};

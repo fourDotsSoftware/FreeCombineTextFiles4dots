@@ -1,0 +1,49 @@
+HKLM
+{
+    NoRemove Software
+    {
+       NoRemove Classes
+       {
+	NoRemove CLSID
+	{
+		ForceRemove {7B95F48D-A040-472E-8732-438BBE08942F} = s 'FreeCombinePDFShellExt Class'
+		{			
+			InprocServer32 = s '%MODULE%'
+			{
+				val ThreadingModel = s 'Apartment'
+			}			
+		}
+	}		
+    
+	NoRemove *
+    {
+        NoRemove ShellEx
+        {
+            NoRemove ContextMenuHandlers
+            {
+                ForceRemove FreeCombinePDF = s '{7B95F48D-A040-472E-8732-438BBE08942F}'
+            }
+        }
+    }
+    
+    
+    
+
+	NoRemove Folder
+    {
+        NoRemove ShellEx
+        {
+            NoRemove ContextMenuHandlers
+            {
+                ForceRemove FreeCombinePDF = s '{7B95F48D-A040-472E-8732-438BBE08942F}'
+            }
+        }
+    }
+
+	}
+
+    }
+}
+
+
+

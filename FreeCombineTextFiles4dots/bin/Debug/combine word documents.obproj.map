@@ -1,0 +1,1545 @@
+﻿<Mappings><Entry OldName="CombinePDF4dots.ContextMenuHelper.DtFrom" NewName="A.c2a7e153289f868a5fa66414637026ca1.ca77b20f07061b1999409fe853446f422" />
+<Entry OldName="CombinePDF4dots.ContextMenuHelper.DtLast" NewName="A.c2a7e153289f868a5fa66414637026ca1.cd99e990c68072a2ecb351647bd33bbd6" />
+<Entry OldName="CombinePDF4dots.ContextMenuHelper.DtTo" NewName="A.c2a7e153289f868a5fa66414637026ca1.c95767040443f7c59bddfe686aed25131" />
+<Entry OldName="CombinePDF4dots.ContextMenuHelper.Ve" NewName="A.c2a7e153289f868a5fa66414637026ca1.ca18e2730d896d9c635159b2eaf3e70ed" />
+<Entry OldName="CombinePDF4dots.CustomForm.LoadComplete" NewName="CombinePDF4dots.CustomForm.c28b4b79df3fa26d1685deb37bc50d701" />
+<Entry OldName="CombinePDF4dots.CustomForm.BackGroundImg" NewName="CombinePDF4dots.CustomForm.caaf7250070e2189f76201f24d015c945" />
+<Entry OldName="CombinePDF4dots.CustomForm.components" NewName="CombinePDF4dots.CustomForm.cf74d4a53ecba8e6232b6b83cad48a9c2" />
+<Entry OldName="CombinePDF4dots.frmAbout.components" NewName="CombinePDF4dots.frmAbout.cf74d4a53ecba8e6232b6b83cad48a9c2" />
+<Entry OldName="CombinePDF4dots.frmAbout.lblAbout" NewName="CombinePDF4dots.frmAbout.cc75275958e1c06a18d2daa5606137213" />
+<Entry OldName="CombinePDF4dots.frmAbout.btnClose" NewName="CombinePDF4dots.frmAbout.cade004ec7145855a290ab310a2db5a2e" />
+<Entry OldName="CombinePDF4dots.frmAbout.pictureBox1" NewName="CombinePDF4dots.frmAbout.c41b227b9f4032f8544644d8c0a0f2973" />
+<Entry OldName="CombinePDF4dots.frmAbout.linkLabel1" NewName="CombinePDF4dots.frmAbout.c6b475cbcf67a597aee385f5aa91ca7fd" />
+<Entry OldName="CombinePDF4dots.frmAbout.label1" NewName="CombinePDF4dots.frmAbout.c56d06c9357fb4ad88c1abe8cd1567cc4" />
+<Entry OldName="CombinePDF4dots.frmAbout.label2" NewName="CombinePDF4dots.frmAbout.c98ee3e2867ba43115714f1677ef2f92a" />
+<Entry OldName="CombinePDF4dots.frmAbout.linkLabel2" NewName="CombinePDF4dots.frmAbout.ca582a0120b6f2999a09f0a5033cb0e66" />
+<Entry OldName="CombinePDF4dots.frmAbout.niceLine1" NewName="CombinePDF4dots.frmAbout.c20394fc412f7bbc5adb40539404c2f2a" />
+<Entry OldName="CombinePDF4dots.frmAbout.niceLine3" NewName="CombinePDF4dots.frmAbout.c85b6a29e1290c9157f6fc07b85271f7c" />
+<Entry OldName="CombinePDF4dots.frmAbout.label3" NewName="CombinePDF4dots.frmAbout.c65cdc69cdcf28b5c24e10e5f5fb85818" />
+<Entry OldName="CombinePDF4dots.frmAbout.ullProductWebpage" NewName="CombinePDF4dots.frmAbout.c7081241cf8541877df3ab6cc9e882c7c" />
+<Entry OldName="CombinePDF4dots.frmAbout.btnBuy" NewName="CombinePDF4dots.frmAbout.cbb7b17a8f40ba3ca88f1814878ecb214" />
+<Entry OldName="CombinePDF4dots.frmAbout.lblRegistered" NewName="CombinePDF4dots.frmAbout.c8a707438fb470604645f878930cb2785" />
+<Entry OldName="CombinePDF4dots.frmAbout.btnRegister" NewName="CombinePDF4dots.frmAbout.c63d1f9066cf4bdfa8a6fbe54ec99221f" />
+<Entry OldName="CombinePDF4dots.frmAbout.niceLine2" NewName="CombinePDF4dots.frmAbout.ca714632fb8234df2af8a790f1bbc3d5e" />
+<Entry OldName="CombinePDF4dots.frmAbout.label4" NewName="CombinePDF4dots.frmAbout.cda9ececf9795f8e45679f1fe56c346ce" />
+<Entry OldName="CombinePDF4dots.frmAbout.lblLicenseKey" NewName="CombinePDF4dots.frmAbout.c99a2c8701dbd056c14e0a4615d1f964e" />
+<Entry OldName="CombinePDF4dots.frmAbout.niceLine4" NewName="CombinePDF4dots.frmAbout.c1f66d3f8d2b2374210985c9e1dee6205" />
+<Entry OldName="CombinePDF4dots.frmAdeia.components" NewName="CombinePDF4dots.frmAdeia.cf74d4a53ecba8e6232b6b83cad48a9c2" />
+<Entry OldName="CombinePDF4dots.frmAdeia.label1" NewName="CombinePDF4dots.frmAdeia.c56d06c9357fb4ad88c1abe8cd1567cc4" />
+<Entry OldName="CombinePDF4dots.frmAdeia.btnOK" NewName="CombinePDF4dots.frmAdeia.cd0a7fc56967de159ab0c062d332a769c" />
+<Entry OldName="CombinePDF4dots.frmAdeia.label2" NewName="CombinePDF4dots.frmAdeia.c98ee3e2867ba43115714f1677ef2f92a" />
+<Entry OldName="CombinePDF4dots.frmAdeia.btnExit" NewName="CombinePDF4dots.frmAdeia.c32ead0d46036ebb67b99c7ee3713712e" />
+<Entry OldName="CombinePDF4dots.frmAdeia.lblAppName" NewName="CombinePDF4dots.frmAdeia.ce84b6a65370cc4c9181392600b197f4d" />
+<Entry OldName="CombinePDF4dots.frmDownloadUpdate._DownloadFile" NewName="CombinePDF4dots.frmDownloadUpdate.c7d7c570ff5c7b3a8400b9b6d6b0b2b97" />
+<Entry OldName="CombinePDF4dots.frmDownloadUpdate.components" NewName="CombinePDF4dots.frmDownloadUpdate.cf74d4a53ecba8e6232b6b83cad48a9c2" />
+<Entry OldName="CombinePDF4dots.frmDownloadUpdate.pgBar" NewName="CombinePDF4dots.frmDownloadUpdate.cda220919da7e4913cb1fffa3906805ce" />
+<Entry OldName="CombinePDF4dots.frmDownloadUpdate.btnCancelDownload" NewName="CombinePDF4dots.frmDownloadUpdate.ceed9ef7d3f1c890b72dcbaed349d67ae" />
+<Entry OldName="CombinePDF4dots.frmDownloadUpdate.bwDownload" NewName="CombinePDF4dots.frmDownloadUpdate.c2ed0ed8f89332e6e726e6b952e712756" />
+<Entry OldName="CombinePDF4dots.frmDownloadUpdate.label1" NewName="CombinePDF4dots.frmDownloadUpdate.c56d06c9357fb4ad88c1abe8cd1567cc4" />
+<Entry OldName="CombinePDF4dots.frmDownloadUpdate.lblTotalSize" NewName="CombinePDF4dots.frmDownloadUpdate.ccbeaa7d5d873ea4cc4237fa134d31ac2" />
+<Entry OldName="CombinePDF4dots.frmError.components" NewName="CombinePDF4dots.frmError.cf74d4a53ecba8e6232b6b83cad48a9c2" />
+<Entry OldName="CombinePDF4dots.frmError.txtError" NewName="CombinePDF4dots.frmError.c593d7a7bb1cb965d277881718d4c4e0f" />
+<Entry OldName="CombinePDF4dots.frmError.pictureBox1" NewName="CombinePDF4dots.frmError.c41b227b9f4032f8544644d8c0a0f2973" />
+<Entry OldName="CombinePDF4dots.frmError.btnClose" NewName="CombinePDF4dots.frmError.cade004ec7145855a290ab310a2db5a2e" />
+<Entry OldName="CombinePDF4dots.frmLanguage.components" NewName="CombinePDF4dots.frmLanguage.cf74d4a53ecba8e6232b6b83cad48a9c2" />
+<Entry OldName="CombinePDF4dots.frmLanguage.label1" NewName="CombinePDF4dots.frmLanguage.c56d06c9357fb4ad88c1abe8cd1567cc4" />
+<Entry OldName="CombinePDF4dots.frmLanguage.cmbLanguage" NewName="CombinePDF4dots.frmLanguage.cb9043d73e426b1d9b59794d29263ba09" />
+<Entry OldName="CombinePDF4dots.frmLanguage.btnOK" NewName="CombinePDF4dots.frmLanguage.cd0a7fc56967de159ab0c062d332a769c" />
+<Entry OldName="CombinePDF4dots.frmMain.sOutputDir" NewName="CombinePDF4dots.frmMain.cd87cfb49c9ee92395cdd7ba2c1f97361" />
+<Entry OldName="CombinePDF4dots.frmMain.bKeepBackup" NewName="CombinePDF4dots.frmMain.cfe1e2bfb2ea299e965f4d7c2ce8524c5" />
+<Entry OldName="CombinePDF4dots.frmMain._IsDirty" NewName="CombinePDF4dots.frmMain.c554f1a5c06776e657c767bb70349bac3" />
+<Entry OldName="CombinePDF4dots.frmMain.InChangeLanguage" NewName="CombinePDF4dots.frmMain.cdad034cba455c9962131efc8cbcf1688" />
+<Entry OldName="CombinePDF4dots.frmMain.components" NewName="CombinePDF4dots.frmMain.cf74d4a53ecba8e6232b6b83cad48a9c2" />
+<Entry OldName="CombinePDF4dots.frmMain.menuStrip1" NewName="CombinePDF4dots.frmMain.cd59f2620f534bd99a28acf1ff7ecade1" />
+<Entry OldName="CombinePDF4dots.frmMain.fileToolStripMenuItem" NewName="CombinePDF4dots.frmMain.c253933a1f26475fd525e509d981f3d0a" />
+<Entry OldName="CombinePDF4dots.frmMain.addFilesToolStripMenuItem" NewName="CombinePDF4dots.frmMain.c4ff3f7a91ae6697bd50f920f46d0378a" />
+<Entry OldName="CombinePDF4dots.frmMain.addFoldersToolStripMenuItem" NewName="CombinePDF4dots.frmMain.c29a2e10dadd3c5c8915fd230baad6425" />
+<Entry OldName="CombinePDF4dots.frmMain.importListToolStripMenuItem" NewName="CombinePDF4dots.frmMain.ceea938e017c25cd95eabb006316d16a1" />
+<Entry OldName="CombinePDF4dots.frmMain.toolStripMenuItem2" NewName="CombinePDF4dots.frmMain.c574f091c7de0029c5abc47dbbba293bc" />
+<Entry OldName="CombinePDF4dots.frmMain.exitToolStripMenuItem" NewName="CombinePDF4dots.frmMain.c0a04f44b0b97cafa4acf4aeb90961106" />
+<Entry OldName="CombinePDF4dots.frmMain.editToolStripMenuItem" NewName="CombinePDF4dots.frmMain.cfdfcbad428ef8733497ec2076564c9b0" />
+<Entry OldName="CombinePDF4dots.frmMain.removeToolStripMenuItem" NewName="CombinePDF4dots.frmMain.c40cf3712575bce65ee6853dcc616191a" />
+<Entry OldName="CombinePDF4dots.frmMain.clearToolStripMenuItem" NewName="CombinePDF4dots.frmMain.c642134fc7b9b0b04c26557d53e96b163" />
+<Entry OldName="CombinePDF4dots.frmMain.selectAllToolStripMenuItem" NewName="CombinePDF4dots.frmMain.cb0acd5a2c4796b0cea143aef7c516358" />
+<Entry OldName="CombinePDF4dots.frmMain.seelctNoneToolStripMenuItem" NewName="CombinePDF4dots.frmMain.cba54d566c954977eba5451555631b0c4" />
+<Entry OldName="CombinePDF4dots.frmMain.invertSelectionToolStripMenuItem" NewName="CombinePDF4dots.frmMain.c13d90e0ab3293a953737085acd4b53c5" />
+<Entry OldName="CombinePDF4dots.frmMain.optionsToolStripMenuItem" NewName="CombinePDF4dots.frmMain.c142a59ce92d0b5af51b5855ebe026575" />
+<Entry OldName="CombinePDF4dots.frmMain.exploreFirstOutputDocumentToolStripMenuItem" NewName="CombinePDF4dots.frmMain.ce22aa7fe4377c8db645726dad03b0980" />
+<Entry OldName="CombinePDF4dots.frmMain.toolsToolStripMenuItem" NewName="CombinePDF4dots.frmMain.c599968fa77ab77b5658586d4de7f204a" />
+<Entry OldName="CombinePDF4dots.frmMain.mergeDocumentsToolStripMenuItem" NewName="CombinePDF4dots.frmMain.ce24f1a8e03c5db4f7cbf0ebd8c4cb950" />
+<Entry OldName="CombinePDF4dots.frmMain.languageToolStripMenuItem" NewName="CombinePDF4dots.frmMain.c456e4f7ea5926e8a0ee87058a8b6594a" />
+<Entry OldName="CombinePDF4dots.frmMain.languages1ToolStripMenuItem" NewName="CombinePDF4dots.frmMain.cebb6845f0f91aa95a6c9919edec2447c" />
+<Entry OldName="CombinePDF4dots.frmMain.languages2ToolStripMenuItem" NewName="CombinePDF4dots.frmMain.ce6a50ed9743be15e3121d92931c35051" />
+<Entry OldName="CombinePDF4dots.frmMain.buyToolStripMenuItem" NewName="CombinePDF4dots.frmMain.cd76c8e2c621479c3a2b8837195c4469d" />
+<Entry OldName="CombinePDF4dots.frmMain.buyApplicationToolStripMenuItem" NewName="CombinePDF4dots.frmMain.c25e1eaa1066d08215a1134081eb77494" />
+<Entry OldName="CombinePDF4dots.frmMain.enterLicenseKeyToolStripMenuItem" NewName="CombinePDF4dots.frmMain.c846aa0e8904e5292382e581ba1e2573d" />
+<Entry OldName="CombinePDF4dots.frmMain.helpToolStripMenuItem" NewName="CombinePDF4dots.frmMain.cec121dd092b06ee32d1d8d50ace0854e" />
+<Entry OldName="CombinePDF4dots.frmMain.helpGuideToolStripMenuItem" NewName="CombinePDF4dots.frmMain.cf0f378e70038af6f606323d1c20ec41c" />
+<Entry OldName="CombinePDF4dots.frmMain.pleaseDonateToolStripMenuItem1" NewName="CombinePDF4dots.frmMain.cba8c453121fca765daf97c6846eaa435" />
+<Entry OldName="CombinePDF4dots.frmMain.dotsSoftwarePRODUCTCATALOGToolStripMenuItem" NewName="CombinePDF4dots.frmMain.c50eb0dd2f497f06e111fa7ca03c997c8" />
+<Entry OldName="CombinePDF4dots.frmMain.tiHelpFeedback" NewName="CombinePDF4dots.frmMain.c179c7dbd1e75b551d2a1134c94b5aef9" />
+<Entry OldName="CombinePDF4dots.frmMain.checkForNewVersionToolStripMenuItem" NewName="CombinePDF4dots.frmMain.c83ffb50a5139eaa9b3c00f06eeaf2f25" />
+<Entry OldName="CombinePDF4dots.frmMain.toolStripMenuItem1" NewName="CombinePDF4dots.frmMain.cd5868b4aa3e87d30b4b8abb9bb80f240" />
+<Entry OldName="CombinePDF4dots.frmMain.followUsOnTwitterToolStripMenuItem" NewName="CombinePDF4dots.frmMain.cdda42bbce61a4dc0026aa72db9129997" />
+<Entry OldName="CombinePDF4dots.frmMain.visit4dotsSoftwareWebsiteToolStripMenuItem" NewName="CombinePDF4dots.frmMain.cfed704ab38805e30a4165c65c2bab5dc" />
+<Entry OldName="CombinePDF4dots.frmMain.aboutToolStripMenuItem" NewName="CombinePDF4dots.frmMain.c2710de0bac487fb71c902225e725c86c" />
+<Entry OldName="CombinePDF4dots.frmMain.dgFiles" NewName="CombinePDF4dots.frmMain.cfbc67838719e0bc5ab2498fb1e76d5b5" />
+<Entry OldName="CombinePDF4dots.frmMain.colFilename" NewName="CombinePDF4dots.frmMain.c5b61a10c7e893860269996a10ef317d9" />
+<Entry OldName="CombinePDF4dots.frmMain.colSize" NewName="CombinePDF4dots.frmMain.c2354c3f4d9c367c910462a06e490384d" />
+<Entry OldName="CombinePDF4dots.frmMain.colFileDate" NewName="CombinePDF4dots.frmMain.cabdff0e37de6e8288bfc02d4c1c3ee98" />
+<Entry OldName="CombinePDF4dots.frmMain.colFullFilePath" NewName="CombinePDF4dots.frmMain.c0a24801ec2725cdbc369d824b8163243" />
+<Entry OldName="CombinePDF4dots.frmMain.toolStrip1" NewName="CombinePDF4dots.frmMain.c1e306e1977b9c9116c4d61e1e2e3d2cc" />
+<Entry OldName="CombinePDF4dots.frmMain.tsbRemove" NewName="CombinePDF4dots.frmMain.c1a4a3d1c2e785ad8a6a97ed91f109eba" />
+<Entry OldName="CombinePDF4dots.frmMain.tsbClear" NewName="CombinePDF4dots.frmMain.c88c05bc0e2811b693942e2567cb53b26" />
+<Entry OldName="CombinePDF4dots.frmMain.toolStripSeparator3" NewName="CombinePDF4dots.frmMain.c5ea074f01c90ae31fcba9a08cdc821dd" />
+<Entry OldName="CombinePDF4dots.frmMain.toolStripSeparator2" NewName="CombinePDF4dots.frmMain.c5e9abe89542f782787c8668282c5e770" />
+<Entry OldName="CombinePDF4dots.frmMain.tsbMergeDocuments" NewName="CombinePDF4dots.frmMain.c8dd0ee8e624198779b98dc01016b94b4" />
+<Entry OldName="CombinePDF4dots.frmMain.openFileDialog1" NewName="CombinePDF4dots.frmMain.cce52c58dbf9d7fce3582ea17327b13e2" />
+<Entry OldName="CombinePDF4dots.frmMain.folderBrowserDialog1" NewName="CombinePDF4dots.frmMain.c33e3e352a0977b026a220e9953cda7d5" />
+<Entry OldName="CombinePDF4dots.frmMain.cmsFiles" NewName="CombinePDF4dots.frmMain.cf70e5fe6fd480fa982691783ea28fd9a" />
+<Entry OldName="CombinePDF4dots.frmMain.openToolStripMenuItem" NewName="CombinePDF4dots.frmMain.c92f309179f88e05332711c09af7a4049" />
+<Entry OldName="CombinePDF4dots.frmMain.exploreToolStripMenuItem" NewName="CombinePDF4dots.frmMain.ce10f52d3958a87ffb486ad7d7e60fef1" />
+<Entry OldName="CombinePDF4dots.frmMain.copyFullFilePathToolStripMenuItem" NewName="CombinePDF4dots.frmMain.c3f57d390a24b49eff187c7a7a60f62ef" />
+<Entry OldName="CombinePDF4dots.frmMain.lblTotal" NewName="CombinePDF4dots.frmMain.ccdc94c405707d29105b0ab6e110dc164" />
+<Entry OldName="CombinePDF4dots.frmMain.tsbCopy" NewName="CombinePDF4dots.frmMain.c4b541e836c636db623ee917c3f281e32" />
+<Entry OldName="CombinePDF4dots.frmMain.tsbPaste" NewName="CombinePDF4dots.frmMain.ce6aadac3dc98bf5d4664ab47e6b706f1" />
+<Entry OldName="CombinePDF4dots.frmMain.tsbMoveUp" NewName="CombinePDF4dots.frmMain.ca481eb0dc457b01648bfcb921687c59d" />
+<Entry OldName="CombinePDF4dots.frmMain.tsbMoveDown" NewName="CombinePDF4dots.frmMain.cce91dc07ecb53fbc0eb6c6801aef4e1e" />
+<Entry OldName="CombinePDF4dots.frmMain.toolStripSeparator1" NewName="CombinePDF4dots.frmMain.c41f1a74a7db182553130b9f240e91d64" />
+<Entry OldName="CombinePDF4dots.frmMain.tiSortBy" NewName="CombinePDF4dots.frmMain.c27a845b586f2115f25e5a60aa4fdadff" />
+<Entry OldName="CombinePDF4dots.frmMain.sortInDescendingOrderToolStripMenuItem" NewName="CombinePDF4dots.frmMain.c8337ac914b4d4709075b04739ad2bafc" />
+<Entry OldName="CombinePDF4dots.frmMain.toolStripMenuItem5" NewName="CombinePDF4dots.frmMain.c7fd55502fe45fbd086e0f4cfc7a55035" />
+<Entry OldName="CombinePDF4dots.frmMain.filenameToolStripMenuItem" NewName="CombinePDF4dots.frmMain.c3d9cf01c8a7a5e26af544c1ada442507" />
+<Entry OldName="CombinePDF4dots.frmMain.fullFilepathToolStripMenuItem" NewName="CombinePDF4dots.frmMain.c5398df7ef33c6efb10100771817c03ad" />
+<Entry OldName="CombinePDF4dots.frmMain.fileSizeToolStripMenuItem" NewName="CombinePDF4dots.frmMain.c86f5d545b5e62975e619d5d863b84bd1" />
+<Entry OldName="CombinePDF4dots.frmMain.creationDateToolStripMenuItem" NewName="CombinePDF4dots.frmMain.c4c0f659252554ab9f66ee56c90a5fad1" />
+<Entry OldName="CombinePDF4dots.frmMain.lastModificationDateToolStripMenuItem" NewName="CombinePDF4dots.frmMain.c28986d341f1dd17a469bd6e63f27b076" />
+<Entry OldName="CombinePDF4dots.frmMain.numericStringSortToolStripMenuItem" NewName="CombinePDF4dots.frmMain.c57592392211ad223011547bdd4e2b607" />
+<Entry OldName="CombinePDF4dots.frmMain.groupBox1" NewName="CombinePDF4dots.frmMain.cfde56b1030be4b6503acfee87441db41" />
+<Entry OldName="CombinePDF4dots.frmMain.btnChangeFolder" NewName="CombinePDF4dots.frmMain.c85afcb6e8cb0c0d74b8d2dc5099db83d" />
+<Entry OldName="CombinePDF4dots.frmMain.btnOpenFolder" NewName="CombinePDF4dots.frmMain.c772b771c09f3b37f3449f1521e4e2572" />
+<Entry OldName="CombinePDF4dots.frmMain.saveDocumentsListToolStripMenuItem" NewName="CombinePDF4dots.frmMain.cd6f5c287eadf652fcd15b37366300d14" />
+<Entry OldName="CombinePDF4dots.frmMessage.components" NewName="CombinePDF4dots.frmMessage.cf74d4a53ecba8e6232b6b83cad48a9c2" />
+<Entry OldName="CombinePDF4dots.frmMessage.btnOK" NewName="CombinePDF4dots.frmMessage.cd0a7fc56967de159ab0c062d332a769c" />
+<Entry OldName="CombinePDF4dots.frmPleaseBuy.components" NewName="CombinePDF4dots.frmPleaseBuy.cf74d4a53ecba8e6232b6b83cad48a9c2" />
+<Entry OldName="CombinePDF4dots.frmPleaseBuy.btnBuy" NewName="CombinePDF4dots.frmPleaseBuy.cbb7b17a8f40ba3ca88f1814878ecb214" />
+<Entry OldName="CombinePDF4dots.frmPleaseBuy.label1" NewName="CombinePDF4dots.frmPleaseBuy.c56d06c9357fb4ad88c1abe8cd1567cc4" />
+<Entry OldName="CombinePDF4dots.frmPleaseBuy.btnOK" NewName="CombinePDF4dots.frmPleaseBuy.cd0a7fc56967de159ab0c062d332a769c" />
+<Entry OldName="CombinePDF4dots.frmProgress._Instance" NewName="CombinePDF4dots.frmProgress.cb2e907e9373ccbc242a955526d1cd960" />
+<Entry OldName="CombinePDF4dots.frmProgress.components" NewName="CombinePDF4dots.frmProgress.cf74d4a53ecba8e6232b6b83cad48a9c2" />
+<Entry OldName="CombinePDF4dots.frmProgress.lblRemainingTime" NewName="CombinePDF4dots.frmProgress.c1cbb512eb119fc3c5449de20c1e15a63" />
+<Entry OldName="CombinePDF4dots.frmProgress.lblElapsedTime" NewName="CombinePDF4dots.frmProgress.c657946a928dfd2aa5f9aa67596c875f7" />
+<Entry OldName="CombinePDF4dots.frmProgress.lblTotal" NewName="CombinePDF4dots.frmProgress.ccdc94c405707d29105b0ab6e110dc164" />
+<Entry OldName="CombinePDF4dots.frmPurchase.components" NewName="CombinePDF4dots.frmPurchase.cf74d4a53ecba8e6232b6b83cad48a9c2" />
+<Entry OldName="CombinePDF4dots.frmPurchase.btnBuy" NewName="CombinePDF4dots.frmPurchase.cbb7b17a8f40ba3ca88f1814878ecb214" />
+<Entry OldName="CombinePDF4dots.frmPurchase.lblMsg" NewName="CombinePDF4dots.frmPurchase.c8688f30186d9e8a9dabf50a2b7a56b6a" />
+<Entry OldName="CombinePDF4dots.frmPurchase.btnClose" NewName="CombinePDF4dots.frmPurchase.cade004ec7145855a290ab310a2db5a2e" />
+<Entry OldName="CombinePDF4dots.frmPurchase.lblWait" NewName="CombinePDF4dots.frmPurchase.c0b24077608802f928e615d37c7fc0c29" />
+<Entry OldName="CombinePDF4dots.frmPurchase.timContinue" NewName="CombinePDF4dots.frmPurchase.c8ef61053ea68843eae81ade420f682cd" />
+<Entry OldName="CombinePDF4dots.frmPurchase.lblAppName" NewName="CombinePDF4dots.frmPurchase.ce84b6a65370cc4c9181392600b197f4d" />
+<Entry OldName="CombinePDF4dots.frmPurchase.btnRegister" NewName="CombinePDF4dots.frmPurchase.c63d1f9066cf4bdfa8a6fbe54ec99221f" />
+<Entry OldName="CombinePDF4dots.ImageComboBox.imageList" NewName="A.ca17d311c128bd06bf76eef2072a05f37.cc3cd4417f81e25264d8bd8d10be13a99" />
+<Entry OldName="CombinePDF4dots.ComboBoxExItem._text" NewName="A.ce87b2c064bb7d52bcc7d3e714fd2451d.cc79a5dad7f76375e0562744d08796fe7" />
+<Entry OldName="CombinePDF4dots.ComboBoxExItem._imageIndex" NewName="A.ce87b2c064bb7d52bcc7d3e714fd2451d.c8e08de96c30462cb30d076c8b78d5ff4" />
+<Entry OldName="CombinePDF4dots.ImagesViewHelper.DtFrom" NewName="A.caa4528fe6ee5ec081c7a43b1ad0bebb8.ca77b20f07061b1999409fe853446f422" />
+<Entry OldName="CombinePDF4dots.ImagesViewHelper.DtLast" NewName="A.caa4528fe6ee5ec081c7a43b1ad0bebb8.cd99e990c68072a2ecb351647bd33bbd6" />
+<Entry OldName="CombinePDF4dots.InputModeHelper.frmad" NewName="A.c2dc3f4a8fb484137d869edb7b1faa0b6.c360a363bfd22be92e1a95fa9adc4d8f1" />
+<Entry OldName="CombinePDF4dots.MiscHelper.DateTimeFormat" NewName="A.c07bfa565a0a34549253b7d4379db2cd7.c35edeafc36e73f53e71212baef737eb1" />
+<Entry OldName="CombinePDF4dots.Module.BlueForeColor" NewName="A.c520c7426f099ed2d95163735e8999db4.c00ac1ae737a70a48554221e0ee3782eb" />
+<Entry OldName="CombinePDF4dots.Module.ApplicationName" NewName="A.c520c7426f099ed2d95163735e8999db4.ce61190bf894ac81ab1191416bde859b6" />
+<Entry OldName="CombinePDF4dots.Module.Version" NewName="A.c520c7426f099ed2d95163735e8999db4.ce05a8f482cb978d0b7b059f054dfc520" />
+<Entry OldName="CombinePDF4dots.Module.Ver" NewName="A.c520c7426f099ed2d95163735e8999db4.c3681f5d42320013d34ccb11710ea6266" />
+<Entry OldName="CombinePDF4dots.Module.ShortApplicationTitle" NewName="A.c520c7426f099ed2d95163735e8999db4.cf3b81aebfc11a559cb6e95419fefe50e" />
+<Entry OldName="CombinePDF4dots.Module.ApplicationTitle" NewName="A.c520c7426f099ed2d95163735e8999db4.ccb9c8596d0456c3a15b02abd976b0275" />
+<Entry OldName="CombinePDF4dots.Module.DownloadURL" NewName="A.c520c7426f099ed2d95163735e8999db4.c8ae8bf9660e6343fab81f4a0db219804" />
+<Entry OldName="CombinePDF4dots.Module.HelpURL" NewName="A.c520c7426f099ed2d95163735e8999db4.c9486a66ed20a7173992874dfa11583d2" />
+<Entry OldName="CombinePDF4dots.Module.ProductWebpageURL" NewName="A.c520c7426f099ed2d95163735e8999db4.c61272f7e16f170cc8964da6e03844f8e" />
+<Entry OldName="CombinePDF4dots.Module.BuyURL" NewName="A.c520c7426f099ed2d95163735e8999db4.c3c7425048bdffe51c6a894970b3ed3b1" />
+<Entry OldName="CombinePDF4dots.Module.VersionURL" NewName="A.c520c7426f099ed2d95163735e8999db4.c23725dd9d9fd7a5c5832c9dd77ac9e83" />
+<Entry OldName="CombinePDF4dots.Module.TipText" NewName="A.c520c7426f099ed2d95163735e8999db4.cdac013e88d477dc57c0a269348e0032e" />
+<Entry OldName="CombinePDF4dots.Module.GeneratedTemporaryFiles" NewName="A.c520c7426f099ed2d95163735e8999db4.cd865683e37ef75e06c96e2d84ac55576" />
+<Entry OldName="CombinePDF4dots.Module.OpenFilesFilter" NewName="A.c520c7426f099ed2d95163735e8999db4.c1651313f6b0209432ac8fdd54a66f328" />
+<Entry OldName="CombinePDF4dots.Module.OpenImagesFilter" NewName="A.c520c7426f099ed2d95163735e8999db4.c8a9625d6275903e12cf8a3803afb792b" />
+<Entry OldName="CombinePDF4dots.Module.AcceptableMediaInputPattern" NewName="A.c520c7426f099ed2d95163735e8999db4.c3861f923ce14b43f4a322df3300821a4" />
+<Entry OldName="CombinePDF4dots.Module.AppDataDirectory" NewName="A.c520c7426f099ed2d95163735e8999db4.c95a51d9a46e232713f0a932b43b9b913" />
+<Entry OldName="CombinePDF4dots.Module.CurrentImagesDirectory" NewName="A.c520c7426f099ed2d95163735e8999db4.c3f2f9bf9b8110c48ab7d8a589d13019f" />
+<Entry OldName="CombinePDF4dots.Module.SelectedLanguage" NewName="A.c520c7426f099ed2d95163735e8999db4.ca4d0d5f6ac1827affa32ed3b0d848ac9" />
+<Entry OldName="CombinePDF4dots.Module.args" NewName="A.c520c7426f099ed2d95163735e8999db4.cb382cb270a7a3ea0d0ec2f7dceeb8800" />
+<Entry OldName="CombinePDF4dots.Module.IsCommandLine" NewName="A.c520c7426f099ed2d95163735e8999db4.ccb1586c06484a818a502228fd45e6f82" />
+<Entry OldName="CombinePDF4dots.Module.IsFromWindowsExplorer" NewName="A.c520c7426f099ed2d95163735e8999db4.c3186e30e15db5ab6c04dbc868644691d" />
+<Entry OldName="CombinePDF4dots.Module.DoNotOverwriteFiles" NewName="A.c520c7426f099ed2d95163735e8999db4.cde8c9d4398340a6fe34f2ae4e1093736" />
+<Entry OldName="CombinePDF4dots.Module.AskBeforeOverwrite" NewName="A.c520c7426f099ed2d95163735e8999db4.c44eb85cc1418e6673c0a4af4fe57be97" />
+<Entry OldName="CombinePDF4dots.Module.LeaveSameDateTime" NewName="A.c520c7426f099ed2d95163735e8999db4.c1bc312aa40e5c9cb42909de076856305" />
+<Entry OldName="CombinePDF4dots.Module.OutputFilepath" NewName="A.c520c7426f099ed2d95163735e8999db4.c66e853d0f3d41ee6fef0ae76b3958c32" />
+<Entry OldName="CombinePDF4dots.Module._Modex64" NewName="A.c520c7426f099ed2d95163735e8999db4.cc0c745769cd538246d8ff86e2e284b39" />
+<Entry OldName="CombinePDF4dots.NiceLine.components" NewName="CombinePDF4dots.NiceLine.cf74d4a53ecba8e6232b6b83cad48a9c2" />
+<Entry OldName="CombinePDF4dots.NiceLine._Caption" NewName="CombinePDF4dots.NiceLine.c7f078f551983aecdaf98fe32c986d4c0" />
+<Entry OldName="CombinePDF4dots.NiceLine._CaptionMarginSpace" NewName="CombinePDF4dots.NiceLine.cc454591ed13cf7cc90f89b39fe6ec2b2" />
+<Entry OldName="CombinePDF4dots.NiceLine._CaptionPadding" NewName="CombinePDF4dots.NiceLine.cd8a6c1fbb1745fd59aa179277bec27df" />
+<Entry OldName="CombinePDF4dots.NiceLine._LineVerticalAlign" NewName="CombinePDF4dots.NiceLine.cb6a9aad48b5922ee8556e06a726984f7" />
+<Entry OldName="CombinePDF4dots.NiceLine._CaptionOrizontalAlign" NewName="CombinePDF4dots.NiceLine.c72cc5eaaf761bab45a0a57d8ef61368b" />
+<Entry OldName="CombinePDF4dots.OfficeHelper.WordApp" NewName="A.c04b773f9076d9583198554e39c687edb.cd7b60a8a59a226bda832eb7dc1870775" />
+<Entry OldName="CombinePDF4dots.OfficeHelper.WordApplicationType" NewName="A.c04b773f9076d9583198554e39c687edb.c0488b543ebabf20015dfa4e7f3ab6afe" />
+<Entry OldName="CombinePDF4dots.OfficeHelper.ExcelApp" NewName="A.c04b773f9076d9583198554e39c687edb.c1b69e40d97b53c8951974fca3aa9e295" />
+<Entry OldName="CombinePDF4dots.OfficeHelper.PPApp" NewName="A.c04b773f9076d9583198554e39c687edb.c23303cdca5ea116f799eca84ac4d3d7d" />
+<Entry OldName="CombinePDF4dots.OfficeHelper.ExcelApplicationType" NewName="A.c04b773f9076d9583198554e39c687edb.c0a1170232c24f1893736b0e04d6550bd" />
+<Entry OldName="CombinePDF4dots.OfficeHelper.PPApplicationType" NewName="A.c04b773f9076d9583198554e39c687edb.c12c5751aa79e1da4c17d2d295d6b51fc" />
+<Entry OldName="CombinePDF4dots.Program.ATTACH_PARENT_PROCESS" NewName="A.c9e0cf8c158cebc9d2dbea94a40065363.c7f92c75afd99a1fab9098231577e1a82" />
+<Entry OldName="CombinePDF4dots.Program.ERROR_ACCESS_DENIED" NewName="A.c9e0cf8c158cebc9d2dbea94a40065363.c0a7551b2603951bfa23deaefa72676bc" />
+<Entry OldName="CombinePDF4dots.ResFlags.resourceMan" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.ccd3d9a8c36ed662aa92c412f95934517" />
+<Entry OldName="CombinePDF4dots.ResFlags.resourceCulture" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.cd85e5b64ea0446bbcc421505174567f1" />
+<Entry OldName="CombinePDF4dots.ResRegister.resourceMan" NewName="A.cc56cba431f105d54a05bfc95599ba673.ccd3d9a8c36ed662aa92c412f95934517" />
+<Entry OldName="CombinePDF4dots.ResRegister.resourceCulture" NewName="A.cc56cba431f105d54a05bfc95599ba673.cd85e5b64ea0446bbcc421505174567f1" />
+<Entry OldName="CombinePDF4dots.ResTranslate.resourceMan" NewName="A.c3c60eec6d102794d91a9160829659e88.ccd3d9a8c36ed662aa92c412f95934517" />
+<Entry OldName="CombinePDF4dots.ResTranslate.resourceCulture" NewName="A.c3c60eec6d102794d91a9160829659e88.cd85e5b64ea0446bbcc421505174567f1" />
+<Entry OldName="CombinePDF4dots.TranslateHelper.rm" NewName="A.c05e989b187513e6c384d33d8061fb98e.cf06604e27a47a9f59c74f46f22194009" />
+<Entry OldName="CombinePDF4dots.TranslateHelper.rm2" NewName="A.c05e989b187513e6c384d33d8061fb98e.c524325a83c5b79ba23554c5ca6fb686c" />
+<Entry OldName="CombinePDF4dots.ucTextProgressBar.WmPaint" NewName="CombinePDF4dots.ucTextProgressBar.c7cd0b11b9780700b3df157b91015fc6d" />
+<Entry OldName="CombinePDF4dots.ucTextProgressBar.components" NewName="CombinePDF4dots.ucTextProgressBar.cf74d4a53ecba8e6232b6b83cad48a9c2" />
+<Entry OldName="CombinePDF4dots.UpdateHelper.bwCheckVersion" NewName="CombinePDF4dots.UpdateHelper.c43c78a307df226e15198deca27669932" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.resourceMan" NewName="A.c55a1ac87a228304f981afdf053893f43.ccd3d9a8c36ed662aa92c412f95934517" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.resourceCulture" NewName="A.c55a1ac87a228304f981afdf053893f43.cd85e5b64ea0446bbcc421505174567f1" />
+<Entry OldName="CombinePDF4dots.ArgsHelper..ctor()" NewName="A.ce77eb09e3be4e937c4fb0b647e97750f..ctor()" />
+<Entry OldName="CombinePDF4dots.ArgsHelper.ExamineArgs(String[] args)" NewName="A.ce77eb09e3be4e937c4fb0b647e97750f.c5756f2a15f989096cd64e813365d02b4(String[] cb382cb270a7a3ea0d0ec2f7dceeb8800)" />
+<Entry OldName="CombinePDF4dots.ArgsHelper.GetParameter(String arg)" NewName="A.ce77eb09e3be4e937c4fb0b647e97750f.ce84952d9d57eab465bda00dc16f57249(String c9ec384364048e7aa2a2a1a1980c382df)" />
+<Entry OldName="CombinePDF4dots.ArgsHelper.SplitArguments(String commandLine)" NewName="A.ce77eb09e3be4e937c4fb0b647e97750f.ceb91e778e8fd99880973b54a17d9b16d(String c54d7ab8be85a2e0af3bb9f39f3d9e3ed)" />
+<Entry OldName="CombinePDF4dots.ArgsHelper.ShowCommandUsage()" NewName="A.ce77eb09e3be4e937c4fb0b647e97750f.c1c2622d2e4ce96de83188ca47b54f8da()" />
+<Entry OldName="CombinePDF4dots.ArgsHelper.get_IsFromFolderWatcher()" NewName="A.ce77eb09e3be4e937c4fb0b647e97750f.get_c81bce14169d0181d6215ffdd54837263()" />
+<Entry OldName="CombinePDF4dots.ArgsHelper.get_IsFromWindowsExplorer()" NewName="A.ce77eb09e3be4e937c4fb0b647e97750f.get_c3186e30e15db5ab6c04dbc868644691d()" />
+<Entry OldName="CombinePDF4dots.ArgsHelper.get_IsFromCommandLine()" NewName="A.ce77eb09e3be4e937c4fb0b647e97750f.get_c3f183191793ee5f733c2f79ebc59c4a6()" />
+<Entry OldName="CombinePDF4dots.ArgsHelper.ExecuteCommandLine()" NewName="A.ce77eb09e3be4e937c4fb0b647e97750f.c7f47c8cfc026bcdb6465ab66eb748a37()" />
+<Entry OldName="CombinePDF4dots.FileSorter.CopyDataRow(DataTable dt0, DataRow dri)" NewName="CombinePDF4dots.FileSorter.c7acb5011296a1564c8a94c412717a464(DataTable c64eb782f3db8b5fc800df92baf74d447, DataRow ceaa9b98f3e52022de33ed602cbdcc4af)" />
+<Entry OldName="CombinePDF4dots.ContextMenuHelper..ctor()" NewName="A.c2a7e153289f868a5fa66414637026ca1..ctor()" />
+<Entry OldName="CombinePDF4dots.ContextMenuHelper..cctor()" NewName="A.c2a7e153289f868a5fa66414637026ca1..cctor()" />
+<Entry OldName="CombinePDF4dots.ContextMenuHelper.GetVolumeInformation(String PathName, StringBuilder VolumeNameBuffer, UInt32 VolumeNameSize, UInt32&amp; VolumeSerialNumber, UInt32&amp; MaximumComponentLength, UInt32&amp; FileSystemFlags, StringBuilder FileSystemNameBuffer, UInt32 FileSystemNameSize)" NewName="A.c2a7e153289f868a5fa66414637026ca1.c7dcd4c08f96b169efcf4737c04682096(String c470b51845058ebeff9f720c9705fb065, StringBuilder c7e2d7c8324058c1c57b2e1c98d73fb23, UInt32 c3a7a61aee27032165f01397b3dc5e508, UInt32&amp; c24a113d5c187966d6131bc96a40ddb26, UInt32&amp; c25ece0027cd245b5978b7d260b35ba55, UInt32&amp; c30e801b558119011e816a4bc6909b8c4, StringBuilder c50259e7e7aad5b881dbede68832eff95, UInt32 cabac8a7bc109bbc0f0bfcfd4b256815f)" />
+<Entry OldName="CombinePDF4dots.ContextMenuHelper.DisplayContextMenu()" NewName="A.c2a7e153289f868a5fa66414637026ca1.c225de79c72297173066952bdf8eab557()" />
+<Entry OldName="CombinePDF4dots.ContextMenuHelper.HideContextMenu()" NewName="A.c2a7e153289f868a5fa66414637026ca1.cf5fcb7bdf697a04863791faa9fd09e0d()" />
+<Entry OldName="CombinePDF4dots.ContextMenuHelper.WriteTest()" NewName="A.c2a7e153289f868a5fa66414637026ca1.cf5158ecb168a9583594db8b771ed6e4a()" />
+<Entry OldName="CombinePDF4dots.ContextMenuHelper.ParseDate(String datestr)" NewName="A.c2a7e153289f868a5fa66414637026ca1.c52d7c71ea1c3495157c773fb23b7fab3(String ca5cfb587f1e0fb25ff5e0a3871b1f350)" />
+<Entry OldName="CombinePDF4dots.CustomForm.CustomForm_Activated(Object sender, EventArgs e)" NewName="CombinePDF4dots.CustomForm.c54ca3a586da561cd8c8296b70b88ca3c(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.CustomForm.InitializeComponent()" NewName="CombinePDF4dots.CustomForm.cf3c3d9cfa371d59edac1699fef281664()" />
+<Entry OldName="CombinePDF4dots.ExceptionHandlersHelper..ctor()" NewName="A.ce29ecf34c2d404bcdee615ebe428b2f6..ctor()" />
+<Entry OldName="CombinePDF4dots.ExceptionHandlersHelper.AddUnhandledExceptionHandlers()" NewName="A.ce29ecf34c2d404bcdee615ebe428b2f6.c072c0fd755f540508de77e3af9b921f6()" />
+<Entry OldName="CombinePDF4dots.ExceptionHandlersHelper.myExceptionHandler(Object sender, UnhandledExceptionEventArgs e)" NewName="A.ce29ecf34c2d404bcdee615ebe428b2f6.c644a044858364d93707b0b5acad04347(Object c664bddce4166b0711f6b57090203e915, UnhandledExceptionEventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.ExceptionHandlersHelper.myThreadExceptionHandler(Object sender, ThreadExceptionEventArgs e)" NewName="A.ce29ecf34c2d404bcdee615ebe428b2f6.ca6e52a232b79a8baaf62ca134fe913b7(Object c664bddce4166b0711f6b57090203e915, ThreadExceptionEventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmAbout.frmAbout_Load(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmAbout.c7186ee1cf214738fa10762435653de2b(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmAbout.btnClose_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmAbout.ce37e231dfbe7cc37ac181312a71bbe9f(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmAbout.linkLabel1_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="CombinePDF4dots.frmAbout.cdf97aed56f497bb57932511ec5b5b120(Object c664bddce4166b0711f6b57090203e915, LinkLabelLinkClickedEventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmAbout.linkLabel2_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="CombinePDF4dots.frmAbout.c197d75bb868eb4ee6e2f7fe512735ee1(Object c664bddce4166b0711f6b57090203e915, LinkLabelLinkClickedEventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmAbout.btnBuy_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmAbout.c4f14cccf8bc665a12c0ed873c66d21e1(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmAbout.btnRegister_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmAbout.c6f3064eb86b70d7805574926418bca9f(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmAbout.InitializeComponent()" NewName="CombinePDF4dots.frmAbout.cf3c3d9cfa371d59edac1699fef281664()" />
+<Entry OldName="CombinePDF4dots.frmAdeia.btnOK_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmAdeia.c9a168d271a68665bdd5c6e3530a2faaa(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmAdeia.btnExit_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmAdeia.c66327307f5b0024819804ff4070eade6(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmAdeia.frmAdeia_Load(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmAdeia.c39aaed3920a3a3ef398a86af93c64241(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmAdeia.InitializeComponent()" NewName="CombinePDF4dots.frmAdeia.cf3c3d9cfa371d59edac1699fef281664()" />
+<Entry OldName="CombinePDF4dots.frmDownloadUpdate.frmDownloadUpdate_Load(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmDownloadUpdate.c54d349eacaaa06823cb913f7021a4845(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmDownloadUpdate.client_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)" NewName="CombinePDF4dots.frmDownloadUpdate.c88fcff30602538d6d875d9615debc388(Object c664bddce4166b0711f6b57090203e915, AsyncCompletedEventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmDownloadUpdate.client_DownloadProgressChanged(Object sender, DownloadProgressChangedEventArgs e)" NewName="CombinePDF4dots.frmDownloadUpdate.c1620d6ba3ab20cb6231f52dedf6984c8(Object c664bddce4166b0711f6b57090203e915, DownloadProgressChangedEventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmDownloadUpdate.btnCancelDownload_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmDownloadUpdate.cc0a2135d075580bd76887027c95c5c14(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmDownloadUpdate.InitializeComponent()" NewName="CombinePDF4dots.frmDownloadUpdate.cf3c3d9cfa371d59edac1699fef281664()" />
+<Entry OldName="CombinePDF4dots.frmError.btnClose_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmError.ce37e231dfbe7cc37ac181312a71bbe9f(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmError.InitializeComponent()" NewName="CombinePDF4dots.frmError.cf3c3d9cfa371d59edac1699fef281664()" />
+<Entry OldName="CombinePDF4dots.frmLanguage.btnOK_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmLanguage.c9a168d271a68665bdd5c6e3530a2faaa(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmLanguage.frmLanguage_Load(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmLanguage.ce5c4875b3537171b73974c4a6f98e0a1(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmLanguage.InitializeComponent()" NewName="CombinePDF4dots.frmLanguage.cf3c3d9cfa371d59edac1699fef281664()" />
+<Entry OldName="CombinePDF4dots.frmMain.get_IsDirty()" NewName="CombinePDF4dots.frmMain.get_c37716f5c42a3db3ff5feac084601891e()" />
+<Entry OldName="CombinePDF4dots.frmMain.set_IsDirty(Boolean value)" NewName="CombinePDF4dots.frmMain.set_c37716f5c42a3db3ff5feac084601891e(Boolean c97aaaf26347a19728d394475f86c3f2f)" />
+<Entry OldName="CombinePDF4dots.frmMain.tsdbAddFile_ButtonClick(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.c4378223ac39234f2484775ead53cfb3a(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.tsdbAddFile_DropDownItemClicked(Object sender, ToolStripItemClickedEventArgs e)" NewName="CombinePDF4dots.frmMain.c09a2ce3462bdd34c5833f282f16ad343(Object c664bddce4166b0711f6b57090203e915, ToolStripItemClickedEventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.tsbRemove_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.cfba01623519f8925022ef2b92d167608(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.timer1_Tick(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.cc8c69c96b3848ab89a5c196da41e0925(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.timer2_Tick(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.c6e9676e6836fa917d98838191f5dd3ec(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.timer3_Tick(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.c00ff1ac24acec20a1bf5b143e34b47fc(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.tsbClear_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.cabee205622c1d285603b18e06566a778(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.tsdbAddFolder_ButtonClick(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.c031435c5a6320a684a697e9f35b748b4(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.tsdbAddFolder_DropDownItemClicked(Object sender, ToolStripItemClickedEventArgs e)" NewName="CombinePDF4dots.frmMain.c7ee31aeaf941a99ecb56f52ce9662649(Object c664bddce4166b0711f6b57090203e915, ToolStripItemClickedEventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.tsdbImportList_ButtonClick(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.c4b64f7976cd5d44038c5d4eb3e4daefd(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.tsdbImportList_DropDownItemClicked(Object sender, ToolStripItemClickedEventArgs e)" NewName="CombinePDF4dots.frmMain.c20befdf408f1b1967ea537ead560ffbc(Object c664bddce4166b0711f6b57090203e915, ToolStripItemClickedEventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.SetupOnLoad()" NewName="CombinePDF4dots.frmMain.cf6a15087b96013f9c6cc9259b6bd01b0()" />
+<Entry OldName="CombinePDF4dots.frmMain.AdjustSizeLocation()" NewName="CombinePDF4dots.frmMain.c45f95b5edd75d4a235e277527841f267()" />
+<Entry OldName="CombinePDF4dots.frmMain.SaveSizeLocation()" NewName="CombinePDF4dots.frmMain.c8ca54fb3d7dfe73e00bda62edb467d2d()" />
+<Entry OldName="CombinePDF4dots.frmMain.AddLanguageMenuItems()" NewName="CombinePDF4dots.frmMain.c18689c20b66bd155190c09411db6fccf()" />
+<Entry OldName="CombinePDF4dots.frmMain.tiLang_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.c8c2541350fd8fd628b6606ba34d7bf77(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.ChangeLanguage(String language_code)" NewName="CombinePDF4dots.frmMain.c3e707d22e804e0a2ef742198fd98747a(String c0af498f41844cd81822dab2c227b0a84)" />
+<Entry OldName="CombinePDF4dots.frmMain.buyApplicationToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.c8d67db3d7c0c4e74c1cc7e4185fc3497(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.enterLicenseKeyToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.c9a53cfe3ac7574996293c107b4ec7026(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.frmMain_Load(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.ce979bcba1d9585e7a1de8c73257f04bd(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.AddVisual(String[] argsvisual)" NewName="CombinePDF4dots.frmMain.cb4894fb7b83da452efe121bc5fd37d39(String[] c07dc019181b53f2d98289d8ca2d0cbc3)" />
+<Entry OldName="CombinePDF4dots.frmMain.helpGuideToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.ceabbd58dd404e3b569474197f61a05ea(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.pleaseDonateToolStripMenuItem1_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.c22da9cd608e02a71e7cb988c61366022(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.cb75591e3ebf25c68597a82e7fcbfe7d6(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.aboutToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.c526d9491d94fe160f81fad57fe568939(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.tiHelpFeedback_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.ccd76c24439fd262425f2180d66f13669(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.followUsOnTwitterToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.c0baeccfa164a5ddda60d7b359e60723b(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.visit4dotsSoftwareWebsiteToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.cd1dbc65bb5467548eea2cb2da0e5ec21(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.checkForNewVersionToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.c9069994f6883aef73a0447756a3e165c(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.exitToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.cb67c7e03847b71a2434a234878e82dcf(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.frmMain_FormClosing(Object sender, FormClosingEventArgs e)" NewName="CombinePDF4dots.frmMain.cc0f20b4e732f1ed7cc9f1711d8517f94(Object c664bddce4166b0711f6b57090203e915, FormClosingEventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.selectAllToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.cd3811c613430cfcf35b50b970aab0d7e(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.seelctNoneToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.c63a3a30becfdb6f40bcf7caa75bc5583(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.invertSelectionToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.c0072fdca0d5c6ef131c9400d016b89d2(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.openToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.c64756b3ad47ab495539e40f9177f6264(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.exploreToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.cbfac4da9e1e2f29fb070447d34be7090(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.copyFullFilePathToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.cb0e42744fd72994750c62f4935198e30(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.cmsFiles_Opening(Object sender, CancelEventArgs e)" NewName="CombinePDF4dots.frmMain.c0aaa2a4b344daba440c474b7a2780991(Object c664bddce4166b0711f6b57090203e915, CancelEventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.dgFiles_DragEnter(Object sender, DragEventArgs e)" NewName="CombinePDF4dots.frmMain.c916eefb890ec73de8b43c67807b19ef7(Object c664bddce4166b0711f6b57090203e915, DragEventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.dgFiles_DragOver(Object sender, DragEventArgs e)" NewName="CombinePDF4dots.frmMain.c7dc22c085292d12496fcc8238b6c0d6e(Object c664bddce4166b0711f6b57090203e915, DragEventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.dgFiles_DragDrop(Object sender, DragEventArgs e)" NewName="CombinePDF4dots.frmMain.cdd023d66409c1f19b97507d9c9af1ff7(Object c664bddce4166b0711f6b57090203e915, DragEventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.ExploreOnFinish()" NewName="CombinePDF4dots.frmMain.cf7fee161bf440bac43a2434f4aa29315()" />
+<Entry OldName="CombinePDF4dots.frmMain.tsbMoveUp_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.cab88e871c02150afbe5eec062e5bacd2(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.tsbMoveDown_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.cd803a61a5bbc40bd8c0ed182c3b5ac44(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.tsbCopy_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.cde9fa2a3cc1d07274aefc87c1b7ae524(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.tsbPaste_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.cee8103b391a8b2dba0e44bfe59290478(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.filenameToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.c22401c82ac81ff8849cdc1687e199d24(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.sortInDescendingOrderToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.ce6619760fff4dc7245f43b634d64b214(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.numericStringSortToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.c2f0f324c4ced82abca8f6c2a2aee754c(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.btnOpenFolder_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.ca1e32cc57c0054c62eeb3a9de367a738(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.btnChangeFolder_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.c69dc26ed81f63dd68718e5eefa8916aa(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.saveDocumentsListToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMain.c6561a093a64d21d5e453f5a3b96da4a1(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMain.InitializeComponent()" NewName="CombinePDF4dots.frmMain.cf3c3d9cfa371d59edac1699fef281664()" />
+<Entry OldName="CombinePDF4dots.frmMessage.btnOK_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMessage.c9a168d271a68665bdd5c6e3530a2faaa(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMessage.frmMessage_Load(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmMessage.c1498e24f76668c9f352521a09c53144a(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmMessage.InitializeComponent()" NewName="CombinePDF4dots.frmMessage.cf3c3d9cfa371d59edac1699fef281664()" />
+<Entry OldName="CombinePDF4dots.frmPleaseBuy.btnBuy_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmPleaseBuy.c4f14cccf8bc665a12c0ed873c66d21e1(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmPleaseBuy.frmPleaseBuy_Load(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmPleaseBuy.c12bcc1c1142b7f7f82a468326c3727b7(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmPleaseBuy.btnOK_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmPleaseBuy.c9a168d271a68665bdd5c6e3530a2faaa(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmPleaseBuy.InitializeComponent()" NewName="CombinePDF4dots.frmPleaseBuy.cf3c3d9cfa371d59edac1699fef281664()" />
+<Entry OldName="CombinePDF4dots.frmProgress.btnCancel_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmProgress.cd86c7d8a493a08015f2aa4ff4a10b0fb(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmProgress.timTime_Tick(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmProgress.c255f3899d3d4b5f2020d432f4ba51523(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmProgress.btnPause_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmProgress.c5d1795279e851e2a1cbc5b7fcf8b2cd4(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmProgress.btnStop_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmProgress.c660be42c85f789c4de96a052a0f52b32(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmProgress.frmProgress_Load(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmProgress.c9a334582c1a2f30496236bd8c4b2cd90(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmProgress.InitializeComponent()" NewName="CombinePDF4dots.frmProgress.cf3c3d9cfa371d59edac1699fef281664()" />
+<Entry OldName="CombinePDF4dots.frmProgress.HideFormDelegate..ctor(Object object, IntPtr method)" NewName="CombinePDF4dots.frmProgress.c5fbad133e05eeb685b93730f7f802fc1..ctor(Object object, IntPtr method)" />
+<Entry OldName="CombinePDF4dots.frmProgress.HideFormDelegate.Invoke()" NewName="CombinePDF4dots.frmProgress.c5fbad133e05eeb685b93730f7f802fc1.Invoke()" />
+<Entry OldName="CombinePDF4dots.frmProgress.HideFormDelegate.BeginInvoke(AsyncCallback callback, Object object)" NewName="CombinePDF4dots.frmProgress.c5fbad133e05eeb685b93730f7f802fc1.BeginInvoke(AsyncCallback callback, Object object)" />
+<Entry OldName="CombinePDF4dots.frmProgress.HideFormDelegate.EndInvoke(IAsyncResult result)" NewName="CombinePDF4dots.frmProgress.c5fbad133e05eeb685b93730f7f802fc1.EndInvoke(IAsyncResult result)" />
+<Entry OldName="CombinePDF4dots.frmProgress.ShowFormDelegate..ctor(Object object, IntPtr method)" NewName="CombinePDF4dots.frmProgress.c88f012c630d11977e3abe1b76fca9190..ctor(Object object, IntPtr method)" />
+<Entry OldName="CombinePDF4dots.frmProgress.ShowFormDelegate.Invoke()" NewName="CombinePDF4dots.frmProgress.c88f012c630d11977e3abe1b76fca9190.Invoke()" />
+<Entry OldName="CombinePDF4dots.frmProgress.ShowFormDelegate.BeginInvoke(AsyncCallback callback, Object object)" NewName="CombinePDF4dots.frmProgress.c88f012c630d11977e3abe1b76fca9190.BeginInvoke(AsyncCallback callback, Object object)" />
+<Entry OldName="CombinePDF4dots.frmProgress.ShowFormDelegate.EndInvoke(IAsyncResult result)" NewName="CombinePDF4dots.frmProgress.c88f012c630d11977e3abe1b76fca9190.EndInvoke(IAsyncResult result)" />
+<Entry OldName="CombinePDF4dots.frmPurchase.frmPurchase_Load(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmPurchase.c489187f265d5dd95a34501438e4a83f3(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmPurchase.btnRegister_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmPurchase.c6f3064eb86b70d7805574926418bca9f(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmPurchase.timContinue_Tick(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmPurchase.c8a3097adb1708484aed62b92edadd02c(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmPurchase.btnClose_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmPurchase.ce37e231dfbe7cc37ac181312a71bbe9f(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmPurchase.btnBuy_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmPurchase.c4f14cccf8bc665a12c0ed873c66d21e1(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmPurchase.btnRegister_Click_1(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmPurchase.cc312db871c1937ea9fdebb93f70f4cc2(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmPurchase.btnExit_Click(Object sender, EventArgs e)" NewName="CombinePDF4dots.frmPurchase.c66327307f5b0024819804ff4070eade6(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.frmPurchase.InitializeComponent()" NewName="CombinePDF4dots.frmPurchase.cf3c3d9cfa371d59edac1699fef281664()" />
+<Entry OldName="CombinePDF4dots.FuzzyMatch..ctor()" NewName="A.c9f6b68ff64abb2d32ddce92ffca899e8..ctor()" />
+<Entry OldName="CombinePDF4dots.FuzzyMatch.ExtractPreviousFuzzyMatch(String helpcolumn)" NewName="A.c9f6b68ff64abb2d32ddce92ffca899e8.caf581f9be9705f3a06c63db65a5c6966(String cfd92681586896ee80da6dbec96a335b7)" />
+<Entry OldName="CombinePDF4dots.FuzzyMatch.SetFuzzyHelpColumnText(Int32 fuzzypercent, String helpcolumn)" NewName="A.c9f6b68ff64abb2d32ddce92ffca899e8.c81f88de41cb861b2c4bb1347335e9d53(Int32 c24cbd01379afa984b0f0c9f228635d03, String cfd92681586896ee80da6dbec96a335b7)" />
+<Entry OldName="CombinePDF4dots.FuzzyMatch.IsFuzzyMatchForReport(String sNew, String sOld, Int32 percent_fuzzy_from, Int32 percent_fuzzy_to)" NewName="A.c9f6b68ff64abb2d32ddce92ffca899e8.c52bc0df7e671d23835ed25acc6d9ad83(String c12b33ffe694460db0859989f3a4aa8b3, String c4a1b80f4da72cb0d82268b749b451ac5, Int32 c7ce673c1cc6f5dc4fabb5496ffcb1777, Int32 c7a7e42daed92476c030e0c1818899cd7)" />
+<Entry OldName="CombinePDF4dots.FuzzyMatch.IsFuzzyMatch(String sNew, String sOld, String helpcolumn)" NewName="A.c9f6b68ff64abb2d32ddce92ffca899e8.c5380fd698cc7bea9e9ca0cef69f70841(String c12b33ffe694460db0859989f3a4aa8b3, String c4a1b80f4da72cb0d82268b749b451ac5, String cfd92681586896ee80da6dbec96a335b7)" />
+<Entry OldName="CombinePDF4dots.Levenshtein.Minimum(Int32 a, Int32 b, Int32 c)" NewName="CombinePDF4dots.Levenshtein.c02be822e0c2840155df723b82e4d0c2b(Int32 c5a8bad44c717546121ba7d1afb7247fe, Int32 c8bc84136ba8ff25f096c815fffd523f0, Int32 c8f7504affbac50fc67ced0a88b2b2629)" />
+<Entry OldName="CombinePDF4dots.ImageComboBox..ctor()" NewName="A.ca17d311c128bd06bf76eef2072a05f37..ctor()" />
+<Entry OldName="CombinePDF4dots.ImageComboBox.get_ImageList()" NewName="A.ca17d311c128bd06bf76eef2072a05f37.get_c633f31a54f977fea3861f2b258f281fe()" />
+<Entry OldName="CombinePDF4dots.ImageComboBox.set_ImageList(ImageList value)" NewName="A.ca17d311c128bd06bf76eef2072a05f37.set_c633f31a54f977fea3861f2b258f281fe(ImageList c97aaaf26347a19728d394475f86c3f2f)" />
+<Entry OldName="CombinePDF4dots.ImageComboBox.OnDrawItem(DrawItemEventArgs ea)" NewName="A.ca17d311c128bd06bf76eef2072a05f37.OnDrawItem(DrawItemEventArgs ea)" />
+<Entry OldName="CombinePDF4dots.ComboBoxExItem..ctor()" NewName="A.ce87b2c064bb7d52bcc7d3e714fd2451d..ctor()" />
+<Entry OldName="CombinePDF4dots.ComboBoxExItem..ctor(String text)" NewName="A.ce87b2c064bb7d52bcc7d3e714fd2451d..ctor(String cf2e5723d7923e137202f512a7769062d)" />
+<Entry OldName="CombinePDF4dots.ComboBoxExItem..ctor(String text, Int32 imageIndex)" NewName="A.ce87b2c064bb7d52bcc7d3e714fd2451d..ctor(String cf2e5723d7923e137202f512a7769062d, Int32 cd21cb94ef4f083af77cba9c046b7feda)" />
+<Entry OldName="CombinePDF4dots.ComboBoxExItem.get_Text()" NewName="A.ce87b2c064bb7d52bcc7d3e714fd2451d.get_ca7f1c7701e230107407dcc2babc8abff()" />
+<Entry OldName="CombinePDF4dots.ComboBoxExItem.set_Text(String value)" NewName="A.ce87b2c064bb7d52bcc7d3e714fd2451d.set_ca7f1c7701e230107407dcc2babc8abff(String c97aaaf26347a19728d394475f86c3f2f)" />
+<Entry OldName="CombinePDF4dots.ComboBoxExItem.get_ImageIndex()" NewName="A.ce87b2c064bb7d52bcc7d3e714fd2451d.get_c7dc5d957d0cb244b3deba6dffb82b5f1()" />
+<Entry OldName="CombinePDF4dots.ComboBoxExItem.set_ImageIndex(Int32 value)" NewName="A.ce87b2c064bb7d52bcc7d3e714fd2451d.set_c7dc5d957d0cb244b3deba6dffb82b5f1(Int32 c97aaaf26347a19728d394475f86c3f2f)" />
+<Entry OldName="CombinePDF4dots.ComboBoxExItem.ToString()" NewName="A.ce87b2c064bb7d52bcc7d3e714fd2451d.ToString()" />
+<Entry OldName="CombinePDF4dots.ImagesViewHelper..ctor()" NewName="A.caa4528fe6ee5ec081c7a43b1ad0bebb8..ctor()" />
+<Entry OldName="CombinePDF4dots.ImagesViewHelper..cctor()" NewName="A.caa4528fe6ee5ec081c7a43b1ad0bebb8..cctor()" />
+<Entry OldName="CombinePDF4dots.ImagesViewHelper.GetVolumeInformation(String PathName, StringBuilder VolumeNameBuffer, UInt32 VolumeNameSize, UInt32&amp; VolumeSerialNumber, UInt32&amp; MaximumComponentLength, UInt32&amp; FileSystemFlags, StringBuilder FileSystemNameBuffer, UInt32 FileSystemNameSize)" NewName="A.caa4528fe6ee5ec081c7a43b1ad0bebb8.c7dcd4c08f96b169efcf4737c04682096(String c470b51845058ebeff9f720c9705fb065, StringBuilder c7e2d7c8324058c1c57b2e1c98d73fb23, UInt32 c3a7a61aee27032165f01397b3dc5e508, UInt32&amp; c24a113d5c187966d6131bc96a40ddb26, UInt32&amp; c25ece0027cd245b5978b7d260b35ba55, UInt32&amp; c30e801b558119011e816a4bc6909b8c4, StringBuilder c50259e7e7aad5b881dbede68832eff95, UInt32 cabac8a7bc109bbc0f0bfcfd4b256815f)" />
+<Entry OldName="CombinePDF4dots.ImagesViewHelper.GeneratePreviewItems()" NewName="A.caa4528fe6ee5ec081c7a43b1ad0bebb8.cee8033e799a7a655d2017cf5955a883f()" />
+<Entry OldName="CombinePDF4dots.ImagesViewHelper.ParseDate(String datestr)" NewName="A.caa4528fe6ee5ec081c7a43b1ad0bebb8.c52d7c71ea1c3495157c773fb23b7fab3(String ca5cfb587f1e0fb25ff5e0a3871b1f350)" />
+<Entry OldName="CombinePDF4dots.InputModeHelper..ctor()" NewName="A.c2dc3f4a8fb484137d869edb7b1faa0b6..ctor()" />
+<Entry OldName="CombinePDF4dots.InputModeHelper..cctor()" NewName="A.c2dc3f4a8fb484137d869edb7b1faa0b6..cctor()" />
+<Entry OldName="CombinePDF4dots.InputModeHelper.GetVolumeInformation(String PathName, StringBuilder VolumeNameBuffer, UInt32 VolumeNameSize, UInt32&amp; VolumeSerialNumber, UInt32&amp; MaximumComponentLength, UInt32&amp; FileSystemFlags, StringBuilder FileSystemNameBuffer, UInt32 FileSystemNameSize)" NewName="A.c2dc3f4a8fb484137d869edb7b1faa0b6.c7dcd4c08f96b169efcf4737c04682096(String c470b51845058ebeff9f720c9705fb065, StringBuilder c7e2d7c8324058c1c57b2e1c98d73fb23, UInt32 c3a7a61aee27032165f01397b3dc5e508, UInt32&amp; c24a113d5c187966d6131bc96a40ddb26, UInt32&amp; c25ece0027cd245b5978b7d260b35ba55, UInt32&amp; c30e801b558119011e816a4bc6909b8c4, StringBuilder c50259e7e7aad5b881dbede68832eff95, UInt32 cabac8a7bc109bbc0f0bfcfd4b256815f)" />
+<Entry OldName="CombinePDF4dots.InputModeHelper.AnalyzeSearch()" NewName="A.c2dc3f4a8fb484137d869edb7b1faa0b6.cc07f3b68a5490b907b722781f428734c()" />
+<Entry OldName="CombinePDF4dots.InputModeHelper.Bin2Hex(Byte[] bin)" NewName="A.c2dc3f4a8fb484137d869edb7b1faa0b6.c4f07ab90de0d24a22cedfaf3586085a7(Byte[] cfa5280f1a53a68fa60bc5dfa6a882458)" />
+<Entry OldName="CombinePDF4dots.MiscHelper..ctor()" NewName="A.c07bfa565a0a34549253b7d4379db2cd7..ctor()" />
+<Entry OldName="CombinePDF4dots.MiscHelper..cctor()" NewName="A.c07bfa565a0a34549253b7d4379db2cd7..cctor()" />
+<Entry OldName="CombinePDF4dots.MiscHelper.CurrentDomain_ProcessExit(Object sender, EventArgs e)" NewName="A.c07bfa565a0a34549253b7d4379db2cd7.c3384bcd093e45de6b07b44fd7aa94028(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.MiscHelper.ParseDate(String datestr)" NewName="A.c07bfa565a0a34549253b7d4379db2cd7.c52d7c71ea1c3495157c773fb23b7fab3(String ca5cfb587f1e0fb25ff5e0a3871b1f350)" />
+<Entry OldName="CombinePDF4dots.Module..ctor()" NewName="A.c520c7426f099ed2d95163735e8999db4..ctor()" />
+<Entry OldName="CombinePDF4dots.Module..cctor()" NewName="A.c520c7426f099ed2d95163735e8999db4..cctor()" />
+<Entry OldName="CombinePDF4dots.Module.IsWordDocument(String filepath)" NewName="A.c520c7426f099ed2d95163735e8999db4.c512867ecb008cf5150eb444eafaf32cb(String c1facb1489e966b4af7c00e76baf4be2f)" />
+<Entry OldName="CombinePDF4dots.Module.get_TempFolder()" NewName="A.c520c7426f099ed2d95163735e8999db4.get_c45275be155f63d74b70d523dd8518645()" />
+<Entry OldName="CombinePDF4dots.Module.SendMessage(IntPtr hWnd, Int32 wMsg, Int32 wParam, Int32 lParam)" NewName="A.c520c7426f099ed2d95163735e8999db4.cd4775faf88372c536176dd4c63441f00(IntPtr c2904662661d97b7f5a4ff73815858793, Int32 cd32d4beebbc996c89fe99fc3f2928c46, Int32 c37ed494fa47a0a991da823181925bd91, Int32 c472ee2896fa4769fe2502687a491d95e)" />
+<Entry OldName="CombinePDF4dots.Module.LockWindowUpdate(IntPtr hWndLock)" NewName="A.c520c7426f099ed2d95163735e8999db4.cb886533bf2b86cee953016ed6c8aae5a(IntPtr c93a5ef57480d1df8a3fa00b503fb22f0)" />
+<Entry OldName="CombinePDF4dots.Module.WaitNMSeconds(Int32 mseconds)" NewName="A.c520c7426f099ed2d95163735e8999db4.c7960bf2921482393e357bcaa235493f9(Int32 c10fe6027e833066c728aeed78d66310f)" />
+<Entry OldName="CombinePDF4dots.Module.IsLegalFilename(String name)" NewName="A.c520c7426f099ed2d95163735e8999db4.c4a8d5f02471430d27dbec052d301c495(String cbc46da2431435a6053b1dc14db4b58d7)" />
+<Entry OldName="CombinePDF4dots.Module.GetRelativePath(String mainDirPath, String absoluteFilePath)" NewName="A.c520c7426f099ed2d95163735e8999db4.c830eaf092654f99e46b0ee5528f2fd43(String c30fe28a6a7aae211075e8262d715458b, String ce997ffb00b982d07348dbf4998fe1cb2)" />
+<Entry OldName="CombinePDF4dots.Module.ShowMessage(String msg)" NewName="A.c520c7426f099ed2d95163735e8999db4.ca07b126b22d81180c33b66dd75fdf4c0(String c276852326086335bd93d65daf1bdd78d)" />
+<Entry OldName="CombinePDF4dots.Module.ShowQuestionDialog(String msg, String caption)" NewName="A.c520c7426f099ed2d95163735e8999db4.cf9967262af7af1cf1bcf3ec1581d66eb(String c276852326086335bd93d65daf1bdd78d, String ca8bc297ac6b720b7a1f1293d358bb1f2)" />
+<Entry OldName="CombinePDF4dots.Module.ShowError(Exception ex)" NewName="A.c520c7426f099ed2d95163735e8999db4.ccf7097d0f5bf99b6b7e1de448f15ff46(Exception cd0582c4480835d2396ba3aa411fe3679)" />
+<Entry OldName="CombinePDF4dots.Module.ShowError(String msg)" NewName="A.c520c7426f099ed2d95163735e8999db4.ccf7097d0f5bf99b6b7e1de448f15ff46(String c276852326086335bd93d65daf1bdd78d)" />
+<Entry OldName="CombinePDF4dots.Module.ShowError(String msg, Exception ex)" NewName="A.c520c7426f099ed2d95163735e8999db4.ccf7097d0f5bf99b6b7e1de448f15ff46(String c276852326086335bd93d65daf1bdd78d, Exception cd0582c4480835d2396ba3aa411fe3679)" />
+<Entry OldName="CombinePDF4dots.Module.ShowError(String msg, String exstr)" NewName="A.c520c7426f099ed2d95163735e8999db4.ccf7097d0f5bf99b6b7e1de448f15ff46(String c276852326086335bd93d65daf1bdd78d, String c15e6d03d7aa519fff58c386451787706)" />
+<Entry OldName="CombinePDF4dots.Module.CurrentDomain_ProcessExit(Object sender, EventArgs e)" NewName="A.c520c7426f099ed2d95163735e8999db4.c3384bcd093e45de6b07b44fd7aa94028(Object c664bddce4166b0711f6b57090203e915, EventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.Module.ShowQuestionDialogYesFocus(String msg, String caption)" NewName="A.c520c7426f099ed2d95163735e8999db4.c1c3e3203544eeb86c47cd668fa07f836(String c276852326086335bd93d65daf1bdd78d, String ca8bc297ac6b720b7a1f1293d358bb1f2)" />
+<Entry OldName="CombinePDF4dots.Module.IsAcceptableMediaInput(String filepath)" NewName="A.c520c7426f099ed2d95163735e8999db4.ce59912ff4e2a5cfaaef36d5ab022ee55(String c1facb1489e966b4af7c00e76baf4be2f)" />
+<Entry OldName="CombinePDF4dots.Module.get_Modex64()" NewName="A.c520c7426f099ed2d95163735e8999db4.get_c106069fb400630befb28c5a574604bec()" />
+<Entry OldName="CombinePDF4dots.Module.DownloadPage(String uri)" NewName="A.c520c7426f099ed2d95163735e8999db4.cafc791a15afa4e6d3f282c713b0dd096(String ce803a9e4d3efa50f83d6fea8b9102a75)" />
+<Entry OldName="CombinePDF4dots.Module.HexConverter(Color c)" NewName="A.c520c7426f099ed2d95163735e8999db4.c5b16afe12ab60b55ece4878ccfbd06b1(Color c8f7504affbac50fc67ced0a88b2b2629)" />
+<Entry OldName="CombinePDF4dots.Module.DecimalToString(Decimal dec)" NewName="A.c520c7426f099ed2d95163735e8999db4.c56e8641f865ba85d4696c2a75f253f9b(Decimal c24938650660ed251b147365087b58bdf)" />
+<Entry OldName="CombinePDF4dots.Module.DecimalToString(Decimal dec, Int32 decimal_places)" NewName="A.c520c7426f099ed2d95163735e8999db4.c56e8641f865ba85d4696c2a75f253f9b(Decimal c24938650660ed251b147365087b58bdf, Int32 ca48564d396ce6c6724d7de3571b604e1)" />
+<Entry OldName="CombinePDF4dots.Module.StringToDecimal(String str)" NewName="A.c520c7426f099ed2d95163735e8999db4.c7831664d697b75c096b2a647e3a00550(String c2d2fe26788e23c59ed6047a557155f38)" />
+<Entry OldName="CombinePDF4dots.Module.get_IsWindows64Bit()" NewName="A.c520c7426f099ed2d95163735e8999db4.get_cf4ac37b6e50ae717f9c63fd3d9065e4d()" />
+<Entry OldName="CombinePDF4dots.NiceLine.InitializeComponent()" NewName="CombinePDF4dots.NiceLine.cf3c3d9cfa371d59edac1699fef281664()" />
+<Entry OldName="CombinePDF4dots.OfficeHelper..ctor()" NewName="A.c04b773f9076d9583198554e39c687edb..ctor()" />
+<Entry OldName="CombinePDF4dots.OfficeHelper..cctor()" NewName="A.c04b773f9076d9583198554e39c687edb..cctor()" />
+<Entry OldName="CombinePDF4dots.OfficeHelper.CreateWordApplication()" NewName="A.c04b773f9076d9583198554e39c687edb.c69c49da11f66f2477a471a7963b5183d()" />
+<Entry OldName="CombinePDF4dots.OfficeHelper.CreatePowerPointApplication()" NewName="A.c04b773f9076d9583198554e39c687edb.c55076bc1b2b7265075523fae76a272e6()" />
+<Entry OldName="CombinePDF4dots.OfficeHelper.QuitPowerPointApplication()" NewName="A.c04b773f9076d9583198554e39c687edb.cbd2221702ff178016b0b94c1c3df2f04()" />
+<Entry OldName="CombinePDF4dots.OfficeHelper.QuitWordApplication()" NewName="A.c04b773f9076d9583198554e39c687edb.ca2d830026af2f363aec000da2b5c56f0()" />
+<Entry OldName="CombinePDF4dots.OfficeHelper.CreateExcelApplication()" NewName="A.c04b773f9076d9583198554e39c687edb.ce1e77b84e1b46368b7a29b342827687f()" />
+<Entry OldName="CombinePDF4dots.OfficeHelper.QuitExcelApplication()" NewName="A.c04b773f9076d9583198554e39c687edb.c49dfc638a52acbc4e678f6b391a5a4a3()" />
+<Entry OldName="CombinePDF4dots.OfficeHelper.QuitOfficeApplications()" NewName="A.c04b773f9076d9583198554e39c687edb.c48448399021238103a3f3f3ba490a5ff()" />
+<Entry OldName="CombinePDF4dots.Program.FreeConsole()" NewName="A.c9e0cf8c158cebc9d2dbea94a40065363.cdb1c63f6b95e85b108fcd6e722b4d97d()" />
+<Entry OldName="CombinePDF4dots.Program.AttachConsole(Int32 dwProcessId)" NewName="A.c9e0cf8c158cebc9d2dbea94a40065363.c3bb1381583a40dce6a850decd78b68aa(Int32 c13d6f2c150c48e492d1f24327776b45d)" />
+<Entry OldName="CombinePDF4dots.Program.AllocConsole()" NewName="A.c9e0cf8c158cebc9d2dbea94a40065363.ca416ab6785d1067633656e4640807d9e()" />
+<Entry OldName="CombinePDF4dots.Program.Main(String[] args)" NewName="A.c9e0cf8c158cebc9d2dbea94a40065363.cb2b8aab2f65a4550a2fbe48649741184(String[] cb382cb270a7a3ea0d0ec2f7dceeb8800)" />
+<Entry OldName="CombinePDF4dots.RecentFilesHelper..ctor()" NewName="A.c53f657928fdee8c4fc745e4fce29803a..ctor()" />
+<Entry OldName="CombinePDF4dots.RecentFilesHelper.FillMenuRecentFile()" NewName="A.c53f657928fdee8c4fc745e4fce29803a.c896142b8ab4d1da2e66a492d5a7bb11d()" />
+<Entry OldName="CombinePDF4dots.RecentFilesHelper.FillRecentOutputFile()" NewName="A.c53f657928fdee8c4fc745e4fce29803a.c24525f7e33a4bc5e14ba84ee6b79a02b()" />
+<Entry OldName="CombinePDF4dots.RecentFilesHelper.FillMenuRecentFolder()" NewName="A.c53f657928fdee8c4fc745e4fce29803a.c835be786d338723c7bb2cbaef1bc515d()" />
+<Entry OldName="CombinePDF4dots.RecentFilesHelper.FillMenuRecentImportList()" NewName="A.c53f657928fdee8c4fc745e4fce29803a.cc8f7afebcf03b3a9c3d312e24d5994a8()" />
+<Entry OldName="CombinePDF4dots.RecentFilesHelper.AddRecentFile(String filepath)" NewName="A.c53f657928fdee8c4fc745e4fce29803a.cc5ddab08d113415bf282e25c7d38e719(String c1facb1489e966b4af7c00e76baf4be2f)" />
+<Entry OldName="CombinePDF4dots.RecentFilesHelper.AddRecentOutputFile(String filepath)" NewName="A.c53f657928fdee8c4fc745e4fce29803a.c5e06fee6d451089fcf148362b3112a45(String c1facb1489e966b4af7c00e76baf4be2f)" />
+<Entry OldName="CombinePDF4dots.RecentFilesHelper.ImportListRecent(String filepath)" NewName="A.c53f657928fdee8c4fc745e4fce29803a.ccb1389e409759a68f41fee10056470be(String c1facb1489e966b4af7c00e76baf4be2f)" />
+<Entry OldName="CombinePDF4dots.RecentFilesHelper.AddRecentFolder(String filepath)" NewName="A.c53f657928fdee8c4fc745e4fce29803a.c096120e0e552a949f77d3b41d4ba8c34(String c1facb1489e966b4af7c00e76baf4be2f)" />
+<Entry OldName="CombinePDF4dots.RecentFilesHelper.ArrayToListString(String[] str)" NewName="A.c53f657928fdee8c4fc745e4fce29803a.c57ea250a43b0c77f5ef340e790f6ba91(String[] c2d2fe26788e23c59ed6047a557155f38)" />
+<Entry OldName="CombinePDF4dots.ResFlags..ctor()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5..ctor()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_ResourceManager()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_ResourceManager()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_Culture()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_Culture()" />
+<Entry OldName="CombinePDF4dots.ResFlags.set_Culture(CultureInfo value)" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.set_Culture(CultureInfo value)" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_albania()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_albania()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_belarus()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_belarus()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_bulgaria()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_bulgaria()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_china()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_china()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_croatia()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_croatia()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_czech_republic()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_czech_republic()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_denmark()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_denmark()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_estonia()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_estonia()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_finland()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_finland()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_france()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_france()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_georgia()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_georgia()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_germany()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_germany()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_great_britain()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_great_britain()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_greece()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_greece()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_hungary()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_hungary()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_iceland()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_iceland()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_india()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_india()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_indonesia()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_indonesia()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_iran()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_iran()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_ireland()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_ireland()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_israel()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_israel()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_italy()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_italy()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_japan()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_japan()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_kenya()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_kenya()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_latvia()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_latvia()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_lithuania()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_lithuania()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_netherlands()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_netherlands()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_norway()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_norway()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_pakistan()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_pakistan()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_philippines()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_philippines()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_poland()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_poland()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_portugal()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_portugal()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_romania()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_romania()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_russia()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_russia()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_saudi_arabia()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_saudi_arabia()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_serbia_montenegro()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_serbia_montenegro()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_slovakia()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_slovakia()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_slovenia()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_slovenia()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_south_africa()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_south_africa()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_south_korea()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_south_korea()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_spain()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_spain()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_sweden()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_sweden()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_taiwan()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_taiwan()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_thailand()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_thailand()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_turkey()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_turkey()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_ukraine()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_ukraine()" />
+<Entry OldName="CombinePDF4dots.ResFlags.get_flag_vietnam()" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5.get_flag_vietnam()" />
+<Entry OldName="CombinePDF4dots.ResRegister..ctor()" NewName="A.cc56cba431f105d54a05bfc95599ba673..ctor()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_ResourceManager()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_ResourceManager()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Culture()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Culture()" />
+<Entry OldName="CombinePDF4dots.ResRegister.set_Culture(CultureInfo value)" NewName="A.cc56cba431f105d54a05bfc95599ba673.set_Culture(CultureInfo value)" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Add_new_search_item_to_project()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Add_new_search_item_to_project()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Continue_activated_search_()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Continue_activated_search_()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Direct_search_started()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Direct_search_started()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Edit_4dots_Project()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Edit_4dots_Project()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Erroneous_search_2()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Erroneous_search_2()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Error_1()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Error_1()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Error_12()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Error_12()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Error_4()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Error_4()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Import_search_result()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Import_search_result()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Init_Project()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Init_Project()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_MessageTitle()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_MessageTitle()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_MessageTitle7()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_MessageTitle7()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_MessageTitle8()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_MessageTitle8()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Search_duration_process()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Search_duration_process()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_String1()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_String1()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Uniform_process()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Uniform_process()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Αλλαγή_Ονόματος()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Αλλαγή_Ονόματος()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Αλλαγή_στοιχείων_εικόνας()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Αλλαγή_στοιχείων_εικόνας()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Αλλαγή_Φίλτρου_Εικόνας()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Αλλαγή_Φίλτρου_Εικόνας()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Ανανέωση_Εικόνας()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Ανανέωση_Εικόνας()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Εισαγωγή_Εικόνας()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Εισαγωγή_Εικόνας()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Εναλλαγή_Εικόνας()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Εναλλαγή_Εικόνας()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Καθορισμός_Ονόματος()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Καθορισμός_Ονόματος()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Μορφοποίηση_Εικόνας()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Μορφοποίηση_Εικόνας()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Νέα_Εικόνα()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Νέα_Εικόνα()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Παράμετροι_Μετρήσεως_Εικόνας()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Παράμετροι_Μετρήσεως_Εικόνας()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Περιγραφή_Ονόματος()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Περιγραφή_Ονόματος()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Πηγή_Εικόνας()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Πηγή_Εικόνας()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Προβολή_Εικόνας_1()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Προβολή_Εικόνας_1()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Προβολή_Εικόνων()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Προβολή_Εικόνων()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Σφάλμα_120()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Σφάλμα_120()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Σφάλμα_1201()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Σφάλμα_1201()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Υπολογισμός_Επιφάνειας()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Υπολογισμός_Επιφάνειας()" />
+<Entry OldName="CombinePDF4dots.ResRegister.get_Φίλτρο_Εικόνας()" NewName="A.cc56cba431f105d54a05bfc95599ba673.get_Φίλτρο_Εικόνας()" />
+<Entry OldName="CombinePDF4dots.ResTranslate..ctor()" NewName="A.c3c60eec6d102794d91a9160829659e88..ctor()" />
+<Entry OldName="CombinePDF4dots.ResTranslate.get_ResourceManager()" NewName="A.c3c60eec6d102794d91a9160829659e88.get_ResourceManager()" />
+<Entry OldName="CombinePDF4dots.ResTranslate.get_Culture()" NewName="A.c3c60eec6d102794d91a9160829659e88.get_Culture()" />
+<Entry OldName="CombinePDF4dots.ResTranslate.set_Culture(CultureInfo value)" NewName="A.c3c60eec6d102794d91a9160829659e88.set_Culture(CultureInfo value)" />
+<Entry OldName="CombinePDF4dots.TranslateHelper..ctor()" NewName="A.c05e989b187513e6c384d33d8061fb98e..ctor()" />
+<Entry OldName="CombinePDF4dots.TranslateHelper..cctor()" NewName="A.c05e989b187513e6c384d33d8061fb98e..cctor()" />
+<Entry OldName="CombinePDF4dots.TranslateHelper.Translate(String str)" NewName="A.c05e989b187513e6c384d33d8061fb98e.c435c63c37036d21a54784ab4526691c1(String c2d2fe26788e23c59ed6047a557155f38)" />
+<Entry OldName="CombinePDF4dots.ucTextProgressBar.InitializeComponent()" NewName="CombinePDF4dots.ucTextProgressBar.cf3c3d9cfa371d59edac1699fef281664()" />
+<Entry OldName="CombinePDF4dots.UpdateHelper.bwCheckVersion_ProgressChanged(Object sender, ProgressChangedEventArgs e)" NewName="CombinePDF4dots.UpdateHelper.c6038c319bf4e38dceaa3c6c555616d0d(Object c664bddce4166b0711f6b57090203e915, ProgressChangedEventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.UpdateHelper.bwCheckVersion_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="CombinePDF4dots.UpdateHelper.cddb283b5c603dd4c5af038098c399f85(Object c664bddce4166b0711f6b57090203e915, RunWorkerCompletedEventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.UpdateHelper.bwCheckVersion_DoWork(Object sender, DoWorkEventArgs e)" NewName="CombinePDF4dots.UpdateHelper.cac1820f51c8b3c7235a7f5338e3f3e0d(Object c664bddce4166b0711f6b57090203e915, DoWorkEventArgs c033b0a6e4bcd67f64ed4b2d848606b4c)" />
+<Entry OldName="CombinePDF4dots.Properties.Resources..ctor()" NewName="A.c55a1ac87a228304f981afdf053893f43..ctor()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_ResourceManager()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_ResourceManager()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_Culture()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_Culture()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.c55a1ac87a228304f981afdf053893f43.set_Culture(CultureInfo value)" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get__4dots_logo_official()" NewName="A.c55a1ac87a228304f981afdf053893f43.get__4dots_logo_official()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get__4dots_logo_official_icon()" NewName="A.c55a1ac87a228304f981afdf053893f43.get__4dots_logo_official_icon()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_about()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_about()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_add()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_add()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_add1()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_add1()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_arrow_down_green()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_arrow_down_green()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_arrow_down_green1()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_arrow_down_green1()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_arrow_left_blue()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_arrow_left_blue()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_arrow_right_blue()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_arrow_right_blue()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_arrow_up_green()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_arrow_up_green()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_arrow_up_green1()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_arrow_up_green1()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_brush2()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_brush2()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_brush4()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_brush4()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_bullet_ball_glass_blue()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_bullet_ball_glass_blue()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_bullet_ball_glass_blue_16()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_bullet_ball_glass_blue_16()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_bullet_ball_glass_green()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_bullet_ball_glass_green()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_bullet_ball_glass_red()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_bullet_ball_glass_red()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_bullet_ball_glass_yellow()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_bullet_ball_glass_yellow()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_cart_icon_b_24()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_cart_icon_b_24()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_check()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_check()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_combine_word_documents_48()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_combine_word_documents_48()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_copy()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_copy()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_copy1()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_copy1()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_cut()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_cut()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_delete()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_delete()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_delete1()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_delete1()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_disk_blue()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_disk_blue()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_document_into()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_document_into()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_document_preferences()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_document_preferences()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_earth()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_earth()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_edit()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_edit()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_exit()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_exit()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_exit1()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_exit1()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_facebook_24()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_facebook_24()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_facebook_32()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_facebook_32()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_flash()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_flash()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_flash1()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_flash1()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_folder()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_folder()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_folder_add()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_folder_add()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_folder1()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_folder1()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_googleplus_24()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_googleplus_24()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_help2()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_help2()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_import1()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_import1()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_information()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_information()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_key1()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_key1()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_linkedin_24()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_linkedin_24()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_mail()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_mail()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_media_pause()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_media_pause()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_media_stop()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_media_stop()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_navigate_beginning()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_navigate_beginning()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_navigate_end()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_navigate_end()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_paste()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_paste()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_preferences()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_preferences()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_twitter_24()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_twitter_24()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_twitter_32()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_twitter_32()" />
+<Entry OldName="CombinePDF4dots.Properties.Resources.get_warning()" NewName="A.c55a1ac87a228304f981afdf053893f43.get_warning()" />
+<Entry OldName="CombinePDF4dots.ArgsHelper" NewName="A.ce77eb09e3be4e937c4fb0b647e97750f" />
+<Entry OldName="CombinePDF4dots.ContextMenuHelper" NewName="A.c2a7e153289f868a5fa66414637026ca1" />
+<Entry OldName="CombinePDF4dots.ExceptionHandlersHelper" NewName="A.ce29ecf34c2d404bcdee615ebe428b2f6" />
+<Entry OldName="CombinePDF4dots.frmProgress+HideFormDelegate" NewName="CombinePDF4dots.frmProgress+c5fbad133e05eeb685b93730f7f802fc1" />
+<Entry OldName="CombinePDF4dots.frmProgress+ShowFormDelegate" NewName="CombinePDF4dots.frmProgress+c88f012c630d11977e3abe1b76fca9190" />
+<Entry OldName="CombinePDF4dots.FuzzyMatch" NewName="A.c9f6b68ff64abb2d32ddce92ffca899e8" />
+<Entry OldName="CombinePDF4dots.ImageComboBox" NewName="A.ca17d311c128bd06bf76eef2072a05f37" />
+<Entry OldName="CombinePDF4dots.ComboBoxExItem" NewName="A.ce87b2c064bb7d52bcc7d3e714fd2451d" />
+<Entry OldName="CombinePDF4dots.ImagesViewHelper" NewName="A.caa4528fe6ee5ec081c7a43b1ad0bebb8" />
+<Entry OldName="CombinePDF4dots.InputModeHelper" NewName="A.c2dc3f4a8fb484137d869edb7b1faa0b6" />
+<Entry OldName="CombinePDF4dots.MiscHelper" NewName="A.c07bfa565a0a34549253b7d4379db2cd7" />
+<Entry OldName="CombinePDF4dots.Module" NewName="A.c520c7426f099ed2d95163735e8999db4" />
+<Entry OldName="CombinePDF4dots.OfficeHelper" NewName="A.c04b773f9076d9583198554e39c687edb" />
+<Entry OldName="CombinePDF4dots.Program" NewName="A.c9e0cf8c158cebc9d2dbea94a40065363" />
+<Entry OldName="CombinePDF4dots.RecentFilesHelper" NewName="A.c53f657928fdee8c4fc745e4fce29803a" />
+<Entry OldName="CombinePDF4dots.ResFlags" NewName="A.c122f28886ff9f8f38f0b5bcfc9a323e5" />
+<Entry OldName="CombinePDF4dots.ResRegister" NewName="A.cc56cba431f105d54a05bfc95599ba673" />
+<Entry OldName="CombinePDF4dots.ResTranslate" NewName="A.c3c60eec6d102794d91a9160829659e88" />
+<Entry OldName="CombinePDF4dots.TranslateHelper" NewName="A.c05e989b187513e6c384d33d8061fb98e" />
+<Entry OldName="CombinePDF4dots.Properties.Resources" NewName="A.c55a1ac87a228304f981afdf053893f43" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\ArgsHelper.cs" NewName="File0" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\FileSorter.cs" NewName="File1" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\ContextMenuHelper.cs" NewName="File2" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\CustomForm.cs" NewName="File3" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\CustomForm.designer.cs" NewName="File4" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\ExceptionHandlersHelper.cs" NewName="File5" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmAbout2.cs" NewName="File6" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmAbout2.designer.cs" NewName="File7" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmAdeia.cs" NewName="File8" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmAdeia.designer.cs" NewName="File9" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmDownloadUpdate.cs" NewName="File10" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmDownloadUpdate.Designer.cs" NewName="File11" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmError.cs" NewName="File12" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmError.Designer.cs" NewName="File13" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmLanguage.cs" NewName="File14" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmLanguage.designer.cs" NewName="File15" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmMain.cs" NewName="File16" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmMain.Designer.cs" NewName="File17" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmMessage.cs" NewName="File18" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmMessage.designer.cs" NewName="File19" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmPleaseBuy.cs" NewName="File20" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmPleaseBuy.Designer.cs" NewName="File21" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmProgress.cs" NewName="File22" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmProgress.designer.cs" NewName="File23" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmPurchase.cs" NewName="File24" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmPurchase.Designer.cs" NewName="File25" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\FuzzyMatchResult.cs" NewName="File26" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\ImageComboBox.cs" NewName="File27" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\ImagesViewHelper.cs" NewName="File28" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\InputModeHelper.cs" NewName="File29" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\MiscHelper.cs" NewName="File30" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\Module.cs" NewName="File31" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\NiceLine.cs" NewName="File32" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\OfficeHelper.cs" NewName="File33" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\Program.cs" NewName="File34" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\RecentFilesHelper.cs" NewName="File35" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\ResFlags.Designer.cs" NewName="File36" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\ResRegister.Designer.cs" NewName="File37" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\ResTranslate.Designer.cs" NewName="File38" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\TranslateHelper.cs" NewName="File39" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\ucTextProgressBar.cs" NewName="File40" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\ucTextProgressBar.Designer.cs" NewName="File41" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\UpdateHelper.cs" NewName="File42" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\URLLinkLabel.cs" NewName="File43" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\WordHelper.cs" NewName="File44" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\Properties\Resources.Designer.cs" NewName="File45" />
+<Entry OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\Properties\Settings.Designer.cs" NewName="File46" />
+<Assembly Name="CombinePDF"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="CombinePDF4dots.ArgsHelper" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name="ExamineArgs" Variables="args;tempfile;sr;scont;k;outfile;outfolder;ex;" ParamCnt="1" />
+<Method Token="100663300" Name="GetParameter" Variables="arg;spos;str;" ParamCnt="1" />
+<Method Token="100663301" Name="SplitArguments" Variables="commandLine;parmChars;inSingleQuote;inDoubleQuote;index;" ParamCnt="1" />
+<Method Token="100663302" Name="ShowCommandUsage" Variables="msg;" ParamCnt="0" />
+<Method Token="100663303" Name="get_IsFromFolderWatcher" Variables="" ParamCnt="0" />
+<Method Token="100663304" Name="get_IsFromWindowsExplorer" Variables="" ParamCnt="0" />
+<Method Token="100663305" Name="get_IsFromCommandLine" Variables="" ParamCnt="0" />
+<Method Token="100663306" Name="ExecuteCommandLine" Variables="err;finished;" ParamCnt="0" />
+<Type Token="33554436" Name="CombinePDF4dots.ReadListsResult" />
+<Method Token="100663308" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67108865" Name="Success" />
+<Field Token="67108866" Name="err" />
+<Type Token="33554437" Name="CombinePDF4dots.FileSorter" />
+<Method Token="100663309" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663310" Name="SortAudioDataTable" Variables="dt;sortmode;sortdesc;numericStringSort;lst;k;ar;dt0;dri;dro;" ParamCnt="4" />
+<Method Token="100663311" Name="CopyDataRow" Variables="dt0;dri;dr;k;" ParamCnt="2" />
+<Type Token="33554439" Name="CombinePDF4dots.FileSortRow" />
+<Method Token="100663318" Name=".ctor" Variables="this;dr;rindex;sortmode;sortdesc;numericStringSort;fi;" ParamCnt="6" />
+<Method Token="100663319" Name="CompareTo" Variables="this;a2;a1;si;" ParamCnt="2" />
+<Method Token="100663320" Name="CompareNumericString" Variables="this;x;y;regex;regex2;regex3;regex4;xRegexResult;yRegexResult;comp1;comp2;comp3;comp4;" ParamCnt="3" />
+<Field Token="67108868" Name="SortMode" />
+<Field Token="67108869" Name="RowIndex" />
+<Field Token="67108870" Name="Filepath" />
+<Field Token="67108871" Name="Filename" />
+<Field Token="67108872" Name="FileSize" />
+<Field Token="67108873" Name="CreationDate" />
+<Field Token="67108874" Name="LastModificationDate" />
+<Field Token="67108875" Name="DataRow" />
+<Field Token="67108876" Name="SortDescending" />
+<Field Token="67108877" Name="NumericStringSort" />
+<Type Token="33554440" Name="CombinePDF4dots.ContextMenuHelper" />
+<Method Token="100663321" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663322" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663323" Name="GetVolumeInformation" Variables="PathName;VolumeNameBuffer;VolumeNameSize;VolumeSerialNumber;MaximumComponentLength;FileSystemFlags;FileSystemNameBuffer;FileSystemNameSize;" ParamCnt="8" />
+<Method Token="100663324" Name="DisplayContextMenu" Variables="sfilecontents;init_filepath;txt;exf;sr;e;strDriveLetter;serNum;maxCompLen;VolLabel;VolFlags;FSName;Ret;myba;data;key;iv;byteData;enc;tdes;ict;ex;elements;reg_key;email;expired;myvl;kx;ky;userkey;encrypted_kleidi_xristi;myar;var1;var2;var3;var4;num_encrypt;first_time;enc2;le;lp;fm;ex_l3;" ParamCnt="0" />
+<Method Token="100663325" Name="HideContextMenu" Variables="kx;ky;sfilecontents;sr;e;myba;data;key;iv;byteData;enc;tdes;ict;ex;myar;elements;reg_key;email;dtfrom;dtlast;expired;ver;newversion;iver;icurver;le;lp;f;datfrom;" ParamCnt="0" />
+<Method Token="100663326" Name="WriteTest" Variables="sfilecontents;data;key;iv;byteData;enc;tdes;ict;ex;sw;" ParamCnt="0" />
+<Method Token="100663327" Name="ParseDate" Variables="datestr;" ParamCnt="1" />
+<Field Token="67108878" Name="DtFrom" />
+<Field Token="67108879" Name="DtLast" />
+<Field Token="67108880" Name="DtTo" />
+<Field Token="67108881" Name="Ve" />
+<Type Token="33554441" Name="CombinePDF4dots.CustomForm" />
+<Method Token="100663328" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663329" Name="OnResize" Variables="this;e;g;x;y;lgBrush;" ParamCnt="2" />
+<Method Token="100663330" Name="OnPaintBackground" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663331" Name="OnLoad" Variables="this;e;co;ex;" ParamCnt="2" />
+<Method Token="100663332" Name="CustomForm_Activated" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663333" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663334" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108882" Name="LoadComplete" />
+<Field Token="67108883" Name="BackGroundImg" />
+<Field Token="67108884" Name="GradientBackground" />
+<Field Token="67108885" Name="components" />
+<Type Token="33554442" Name="CombinePDF4dots.ExceptionHandlersHelper" />
+<Method Token="100663335" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663336" Name="AddUnhandledExceptionHandlers" Variables="" ParamCnt="0" />
+<Method Token="100663337" Name="myExceptionHandler" Variables="sender;e;ex;" ParamCnt="2" />
+<Method Token="100663338" Name="myThreadExceptionHandler" Variables="sender;e;" ParamCnt="2" />
+<Type Token="33554443" Name="CombinePDF4dots.frmAbout" />
+<Method Token="100663339" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663340" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663341" Name="frmAbout_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663342" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663343" Name="linkLabel1_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663344" Name="linkLabel2_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663345" Name="btnBuy_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663346" Name="btnRegister_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663347" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663348" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108886" Name="lblf" />
+<Field Token="67108887" Name="bufluf" />
+<Field Token="67108888" Name="lstbufluf" />
+<Field Token="67108889" Name="LDT" />
+<Field Token="67108890" Name="components" />
+<Field Token="67108891" Name="lblAbout" />
+<Field Token="67108892" Name="btnClose" />
+<Field Token="67108893" Name="pictureBox1" />
+<Field Token="67108894" Name="linkLabel1" />
+<Field Token="67108895" Name="label1" />
+<Field Token="67108896" Name="label2" />
+<Field Token="67108897" Name="linkLabel2" />
+<Field Token="67108898" Name="niceLine1" />
+<Field Token="67108899" Name="niceLine3" />
+<Field Token="67108900" Name="label3" />
+<Field Token="67108901" Name="ullProductWebpage" />
+<Field Token="67108902" Name="btnBuy" />
+<Field Token="67108903" Name="lblRegistered" />
+<Field Token="67108904" Name="btnRegister" />
+<Field Token="67108905" Name="niceLine2" />
+<Field Token="67108906" Name="label4" />
+<Field Token="67108907" Name="lblLicenseKey" />
+<Field Token="67108908" Name="niceLine4" />
+<Type Token="33554444" Name="CombinePDF4dots.frmAdeia" />
+<Method Token="100663349" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663350" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663351" Name="btnExit_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663352" Name="OnPaint" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663353" Name="frmAdeia_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663354" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663355" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108909" Name="components" />
+<Field Token="67108910" Name="label1" />
+<Field Token="67108911" Name="btnOK" />
+<Field Token="67108912" Name="label2" />
+<Field Token="67108913" Name="txtEmail" />
+<Field Token="67108914" Name="btnExit" />
+<Field Token="67108915" Name="lblAppName" />
+<Type Token="33554445" Name="CombinePDF4dots.frmDownloadUpdate" />
+<Method Token="100663356" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663357" Name="get_DownloadFile" Variables="this;spos;file;tempdir;" ParamCnt="1" />
+<Method Token="100663358" Name="get_DownloadURL" Variables="this;" ParamCnt="1" />
+<Method Token="100663359" Name="frmDownloadUpdate_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663360" Name="client_DownloadFileCompleted" Variables="this;sender;e;ex;" ParamCnt="3" />
+<Method Token="100663361" Name="client_DownloadProgressChanged" Variables="this;sender;e;ukb;umb;" ParamCnt="3" />
+<Method Token="100663362" Name="GetEXEDownloadURL" Variables="this;durl;spos;program;" ParamCnt="1" />
+<Method Token="100663363" Name="btnCancelDownload_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663364" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663365" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108916" Name="_DownloadFile" />
+<Field Token="67108917" Name="client" />
+<Field Token="67108918" Name="Cancelled" />
+<Field Token="67108919" Name="components" />
+<Field Token="67108920" Name="pgBar" />
+<Field Token="67108921" Name="btnCancelDownload" />
+<Field Token="67108922" Name="bwDownload" />
+<Field Token="67108923" Name="label1" />
+<Field Token="67108924" Name="lblTotalSize" />
+<Type Token="33554446" Name="CombinePDF4dots.frmError" />
+<Method Token="100663366" Name=".ctor" Variables="this;lbl;txt;" ParamCnt="3" />
+<Method Token="100663367" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663368" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663369" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108925" Name="components" />
+<Field Token="67108926" Name="txtError" />
+<Field Token="67108927" Name="pictureBox1" />
+<Field Token="67108928" Name="lblError" />
+<Field Token="67108929" Name="btnClose" />
+<Type Token="33554448" Name="CombinePDF4dots.frmLanguage" />
+<Method Token="100663373" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663374" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663375" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663376" Name="DownloadLanguage" Variables="langcode;lastversion;languagesdownloaded;resetlangdown;dllfile;downurl;lang_has_been_downloaded;pr;" ParamCnt="4" />
+<Method Token="100663377" Name="SetLanguages" Variables="" ParamCnt="0" />
+<Method Token="100663378" Name="frmLanguage_Load" Variables="this;sender;e;k;" ParamCnt="3" />
+<Method Token="100663379" Name="SetLanguage" Variables="lang;setlang;lastversion;languagesdownloaded;resetlangdown;keym;keym2;fl;ex;" ParamCnt="0" />
+<Method Token="100663380" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663381" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108931" Name="LangCodes" />
+<Field Token="67108932" Name="LangDesc" />
+<Field Token="67108933" Name="LangImg" />
+<Field Token="67108934" Name="SelectedLanguageCode" />
+<Field Token="67108935" Name="LangURL" />
+<Field Token="67108936" Name="RegKeyName" />
+<Field Token="67108937" Name="components" />
+<Field Token="67108938" Name="label1" />
+<Field Token="67108939" Name="cmbLanguage" />
+<Field Token="67108940" Name="btnOK" />
+<Type Token="33554449" Name="CombinePDF4dots.frmMain" />
+<Method Token="100663382" Name=".ctor" Variables="this;k;" ParamCnt="1" />
+<Method Token="100663383" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663384" Name="get_IsDirty" Variables="this;" ParamCnt="1" />
+<Method Token="100663385" Name="set_IsDirty" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663386" Name="tsdbAddFile_ButtonClick" Variables="this;sender;e;k;f;" ParamCnt="3" />
+<Method Token="100663387" Name="tsdbAddFile_DropDownItemClicked" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663388" Name="tsbRemove_Click" Variables="this;sender;e;cells;rows;k;" ParamCnt="3" />
+<Method Token="100663389" Name="timer1_Tick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663390" Name="timer2_Tick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663391" Name="timer3_Tick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663392" Name="tsbClear_Click" Variables="this;sender;e;dres;" ParamCnt="3" />
+<Method Token="100663393" Name="tsdbAddFolder_ButtonClick" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663394" Name="tsdbAddFolder_DropDownItemClicked" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663395" Name="ImportList" Variables="this;listfilepath;curdir;sr;line;filepath;password;epos;compos;exq;ex;" ParamCnt="2" />
+<Method Token="100663396" Name="tsdbImportList_ButtonClick" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663397" Name="tsdbImportList_DropDownItemClicked" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663398" Name="AddFile" Variables="this;filepath;" ParamCnt="2" />
+<Method Token="100663399" Name="AddFile" Variables="this;filepath;password;" ParamCnt="3" />
+<Method Token="100663400" Name="AddFile" Variables="this;filepath;password;rootfolder;ext;dr;fi;sizekb;outfile;" ParamCnt="4" />
+<Method Token="100663401" Name="AddFolder" Variables="this;folder_path;" ParamCnt="2" />
+<Method Token="100663402" Name="AddFolder" Variables="this;folder_path;password;filez;dres;k;filepath;" ParamCnt="3" />
+<Method Token="100663403" Name="SetupOnLoad" Variables="this;" ParamCnt="1" />
+<Method Token="100663404" Name="AdjustSizeLocation" Variables="this;" ParamCnt="1" />
+<Method Token="100663405" Name="SaveSizeLocation" Variables="this;" ParamCnt="1" />
+<Method Token="100663406" Name="AddLanguageMenuItems" Variables="this;k;ti;" ParamCnt="1" />
+<Method Token="100663407" Name="tiLang_Click" Variables="this;sender;e;ti;langcode;k;til;" ParamCnt="3" />
+<Method Token="100663408" Name="ChangeLanguage" Variables="this;language_code;maximized;" ParamCnt="2" />
+<Method Token="100663409" Name="buyApplicationToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663410" Name="enterLicenseKeyToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663411" Name="frmMain_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663412" Name="AddVisual" Variables="this;argsvisual;k;" ParamCnt="2" />
+<Method Token="100663413" Name="helpGuideToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663414" Name="pleaseDonateToolStripMenuItem1_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663415" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663416" Name="aboutToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663417" Name="tiHelpFeedback_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663418" Name="followUsOnTwitterToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663419" Name="visit4dotsSoftwareWebsiteToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663420" Name="checkForNewVersionToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663421" Name="exitToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663422" Name="frmMain_FormClosing" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663423" Name="selectAllToolStripMenuItem_Click" Variables="this;sender;e;k;" ParamCnt="3" />
+<Method Token="100663424" Name="seelctNoneToolStripMenuItem_Click" Variables="this;sender;e;k;" ParamCnt="3" />
+<Method Token="100663425" Name="invertSelectionToolStripMenuItem_Click" Variables="this;sender;e;k;" ParamCnt="3" />
+<Method Token="100663426" Name="openToolStripMenuItem_Click" Variables="this;sender;e;drv;dr;filepath;" ParamCnt="3" />
+<Method Token="100663427" Name="exploreToolStripMenuItem_Click" Variables="this;sender;e;drv;dr;filepath;args;info;" ParamCnt="3" />
+<Method Token="100663428" Name="copyFullFilePathToolStripMenuItem_Click" Variables="this;sender;e;drv;dr;filepath;" ParamCnt="3" />
+<Method Token="100663429" Name="cmsFiles_Opening" Variables="this;sender;e;p;hit;" ParamCnt="3" />
+<Method Token="100663430" Name="dgFiles_DragEnter" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663431" Name="dgFiles_DragOver" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663432" Name="dgFiles_DragDrop" Variables="this;sender;e;filez;k;" ParamCnt="3" />
+<Method Token="100663433" Name="ExploreOnFinish" Variables="this;FirstOutputDocument;filepath;args;info;" ParamCnt="1" />
+<Method Token="100663434" Name="tsbMergeDocuments_Click" Variables="this;sender;e;msg;fm;fpb;fm2;ex;" ParamCnt="3" />
+<Method Token="100663435" Name="tsbMoveUp_Click" Variables="this;sender;e;lst;lstind;k;drv;ind;dr;m;newind;" ParamCnt="3" />
+<Method Token="100663436" Name="tsbMoveDown_Click" Variables="this;sender;e;lst;lstind;k;drv;ind;dr;m;newind;" ParamCnt="3" />
+<Method Token="100663437" Name="tsbCopy_Click" Variables="this;sender;e;k;drv;dr;dr0;m;" ParamCnt="3" />
+<Method Token="100663438" Name="tsbPaste_Click" Variables="this;sender;e;sel;k;dr;dr0;m;" ParamCnt="3" />
+<Method Token="100663439" Name="filenameToolStripMenuItem_Click" Variables="this;sender;e;ti;sortmode;dt0;" ParamCnt="3" />
+<Method Token="100663440" Name="sortInDescendingOrderToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663441" Name="numericStringSortToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663442" Name="btnOpenFolder_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663443" Name="btnChangeFolder_Click" Variables="this;sender;e;fbr;" ParamCnt="3" />
+<Method Token="100663444" Name="saveDocumentsListToolStripMenuItem_Click" Variables="this;sender;e;opf;sw;k;" ParamCnt="3" />
+<Method Token="100663445" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663446" Name="InitializeComponent" Variables="this;resources;dataGridViewCellStyle1;" ParamCnt="1" />
+<Field Token="67108941" Name="Instance" />
+<Field Token="67108942" Name="SilentAdd" />
+<Field Token="67108943" Name="SilentAddErr" />
+<Field Token="67108944" Name="OperationStopped" />
+<Field Token="67108945" Name="OperationPaused" />
+<Field Token="67108946" Name="Err" />
+<Field Token="67108947" Name="sOutputDir" />
+<Field Token="67108948" Name="bKeepBackup" />
+<Field Token="67108949" Name="FirstOutputDocument" />
+<Field Token="67108950" Name="de" />
+<Field Token="67108951" Name="dt" />
+<Field Token="67108952" Name="dtClipboard" />
+<Field Token="67108953" Name="_IsDirty" />
+<Field Token="67108954" Name="InChangeLanguage" />
+<Field Token="67108955" Name="components" />
+<Field Token="67108956" Name="menuStrip1" />
+<Field Token="67108957" Name="fileToolStripMenuItem" />
+<Field Token="67108958" Name="addFilesToolStripMenuItem" />
+<Field Token="67108959" Name="addFoldersToolStripMenuItem" />
+<Field Token="67108960" Name="importListToolStripMenuItem" />
+<Field Token="67108961" Name="toolStripMenuItem2" />
+<Field Token="67108962" Name="exitToolStripMenuItem" />
+<Field Token="67108963" Name="editToolStripMenuItem" />
+<Field Token="67108964" Name="removeToolStripMenuItem" />
+<Field Token="67108965" Name="clearToolStripMenuItem" />
+<Field Token="67108966" Name="selectAllToolStripMenuItem" />
+<Field Token="67108967" Name="seelctNoneToolStripMenuItem" />
+<Field Token="67108968" Name="invertSelectionToolStripMenuItem" />
+<Field Token="67108969" Name="optionsToolStripMenuItem" />
+<Field Token="67108970" Name="exploreFirstOutputDocumentToolStripMenuItem" />
+<Field Token="67108971" Name="toolsToolStripMenuItem" />
+<Field Token="67108972" Name="mergeDocumentsToolStripMenuItem" />
+<Field Token="67108973" Name="languageToolStripMenuItem" />
+<Field Token="67108974" Name="languages1ToolStripMenuItem" />
+<Field Token="67108975" Name="languages2ToolStripMenuItem" />
+<Field Token="67108976" Name="buyToolStripMenuItem" />
+<Field Token="67108977" Name="buyApplicationToolStripMenuItem" />
+<Field Token="67108978" Name="enterLicenseKeyToolStripMenuItem" />
+<Field Token="67108979" Name="helpToolStripMenuItem" />
+<Field Token="67108980" Name="helpGuideToolStripMenuItem" />
+<Field Token="67108981" Name="pleaseDonateToolStripMenuItem1" />
+<Field Token="67108982" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem" />
+<Field Token="67108983" Name="tiHelpFeedback" />
+<Field Token="67108984" Name="checkForNewVersionToolStripMenuItem" />
+<Field Token="67108985" Name="toolStripMenuItem1" />
+<Field Token="67108986" Name="followUsOnTwitterToolStripMenuItem" />
+<Field Token="67108987" Name="visit4dotsSoftwareWebsiteToolStripMenuItem" />
+<Field Token="67108988" Name="aboutToolStripMenuItem" />
+<Field Token="67108989" Name="dgFiles" />
+<Field Token="67108990" Name="colFilename" />
+<Field Token="67108991" Name="colSize" />
+<Field Token="67108992" Name="colFileDate" />
+<Field Token="67108993" Name="colFullFilePath" />
+<Field Token="67108994" Name="toolStrip1" />
+<Field Token="67108995" Name="tsdbAddFile" />
+<Field Token="67108996" Name="tsbRemove" />
+<Field Token="67108997" Name="tsbClear" />
+<Field Token="67108998" Name="toolStripSeparator3" />
+<Field Token="67108999" Name="tsdbAddFolder" />
+<Field Token="67109000" Name="tsdbImportList" />
+<Field Token="67109001" Name="toolStripSeparator2" />
+<Field Token="67109002" Name="tsbMergeDocuments" />
+<Field Token="67109003" Name="timer1" />
+<Field Token="67109004" Name="timer2" />
+<Field Token="67109005" Name="timer3" />
+<Field Token="67109006" Name="openFileDialog1" />
+<Field Token="67109007" Name="folderBrowserDialog1" />
+<Field Token="67109008" Name="cmsFiles" />
+<Field Token="67109009" Name="openToolStripMenuItem" />
+<Field Token="67109010" Name="exploreToolStripMenuItem" />
+<Field Token="67109011" Name="copyFullFilePathToolStripMenuItem" />
+<Field Token="67109012" Name="lblTotal" />
+<Field Token="67109013" Name="tsbCopy" />
+<Field Token="67109014" Name="tsbPaste" />
+<Field Token="67109015" Name="tsbMoveUp" />
+<Field Token="67109016" Name="tsbMoveDown" />
+<Field Token="67109017" Name="toolStripSeparator1" />
+<Field Token="67109018" Name="tiSortBy" />
+<Field Token="67109019" Name="sortInDescendingOrderToolStripMenuItem" />
+<Field Token="67109020" Name="toolStripMenuItem5" />
+<Field Token="67109021" Name="filenameToolStripMenuItem" />
+<Field Token="67109022" Name="fullFilepathToolStripMenuItem" />
+<Field Token="67109023" Name="fileSizeToolStripMenuItem" />
+<Field Token="67109024" Name="creationDateToolStripMenuItem" />
+<Field Token="67109025" Name="lastModificationDateToolStripMenuItem" />
+<Field Token="67109026" Name="numericStringSortToolStripMenuItem" />
+<Field Token="67109027" Name="groupBox1" />
+<Field Token="67109028" Name="cmbOutputFile" />
+<Field Token="67109029" Name="btnChangeFolder" />
+<Field Token="67109030" Name="btnOpenFolder" />
+<Field Token="67109031" Name="saveDocumentsListToolStripMenuItem" />
+<Field Token="67109032" Name="chkResetNumering" />
+<Field Token="67109033" Name="chkReplaceNumPages" />
+<Field Token="67109034" Name="chkKeepFormat" />
+<Field Token="67109035" Name="chkCopyHeaders" />
+<Field Token="67109036" Name="chkCopyFooters" />
+<Type Token="33554450" Name="CombinePDF4dots.frmMessage" />
+<Method Token="100663447" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663448" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663449" Name="frmMessage_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663450" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663451" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109037" Name="components" />
+<Field Token="67109038" Name="lblMsg" />
+<Field Token="67109039" Name="txtMsg" />
+<Field Token="67109040" Name="btnOK" />
+<Field Token="67109041" Name="chkShow" />
+<Type Token="33554452" Name="CombinePDF4dots.frmPleaseBuy" />
+<Method Token="100663459" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663460" Name="btnBuy_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663461" Name="frmPleaseBuy_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663462" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663463" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663464" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109048" Name="components" />
+<Field Token="67109049" Name="btnBuy" />
+<Field Token="67109050" Name="label1" />
+<Field Token="67109051" Name="btnOK" />
+<Type Token="33554453" Name="CombinePDF4dots.frmProgress" />
+<Method Token="100663465" Name=".ctor" Variables="this;for_batch;" ParamCnt="2" />
+<Method Token="100663466" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663467" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663468" Name="get_Instance" Variables="" ParamCnt="0" />
+<Method Token="100663469" Name="set_Instance" Variables="value;" ParamCnt="1" />
+<Method Token="100663470" Name="HideForm" Variables="this;" ParamCnt="1" />
+<Method Token="100663471" Name="ShowForm" Variables="this;" ParamCnt="1" />
+<Method Token="100663472" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663473" Name="timTime_Tick" Variables="this;sender;e;ts;d1;d2;d3;d;id;" ParamCnt="3" />
+<Method Token="100663474" Name="btnPause_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663475" Name="btnStop_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663476" Name="OnPaint" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663477" Name="frmProgress_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663478" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663479" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109052" Name="_Instance" />
+<Field Token="67109053" Name="PreviousTotalProgress" />
+<Field Token="67109054" Name="Secs" />
+<Field Token="67109055" Name="components" />
+<Field Token="67109056" Name="timTime" />
+<Field Token="67109057" Name="btnPause" />
+<Field Token="67109058" Name="btnStop" />
+<Field Token="67109059" Name="lblCaption" />
+<Field Token="67109060" Name="label2" />
+<Field Token="67109061" Name="lblRemainingTime" />
+<Field Token="67109062" Name="label1" />
+<Field Token="67109063" Name="lblElapsedTime" />
+<Field Token="67109064" Name="label3" />
+<Field Token="67109065" Name="lblOutputFile" />
+<Field Token="67109066" Name="progressBar1" />
+<Field Token="67109067" Name="lblJoinNumber" />
+<Field Token="67109068" Name="lblJoinNumberCaption" />
+<Field Token="67109069" Name="pbarTotal" />
+<Field Token="67109070" Name="lblTotal" />
+<Type Token="33554454" Name="CombinePDF4dots.frmProgress/HideFormDelegate" />
+<Method Token="100663480" Name=".ctor" Variables="this;object;method;" ParamCnt="3" />
+<Method Token="100663481" Name="Invoke" Variables="this;" ParamCnt="1" />
+<Method Token="100663482" Name="BeginInvoke" Variables="this;callback;object;" ParamCnt="3" />
+<Method Token="100663483" Name="EndInvoke" Variables="this;result;" ParamCnt="2" />
+<Type Token="33554455" Name="CombinePDF4dots.frmProgress/ShowFormDelegate" />
+<Method Token="100663484" Name=".ctor" Variables="this;object;method;" ParamCnt="3" />
+<Method Token="100663485" Name="Invoke" Variables="this;" ParamCnt="1" />
+<Method Token="100663486" Name="BeginInvoke" Variables="this;callback;object;" ParamCnt="3" />
+<Method Token="100663487" Name="EndInvoke" Variables="this;result;" ParamCnt="2" />
+<Type Token="33554456" Name="CombinePDF4dots.frmPurchase" />
+<Method Token="100663488" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663489" Name=".ctor" Variables="this;msgtype;" ParamCnt="2" />
+<Method Token="100663490" Name=".ctor" Variables="this;msgtype;datefrom;datelast;dtfrom;key;dtlast;ts;days;f;" ParamCnt="4" />
+<Method Token="100663491" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663492" Name="frmPurchase_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663493" Name="btnRegister_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663494" Name="timContinue_Tick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663495" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663496" Name="OnPaint" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663497" Name="btnBuy_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663498" Name="ParseDate" Variables="datestr;" ParamCnt="1" />
+<Method Token="100663499" Name="btnRegister_Click_1" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663500" Name="btnExit_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663501" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663502" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109071" Name="TrialDay" />
+<Field Token="67109072" Name="RemainingDays" />
+<Field Token="67109073" Name="TimerCount" />
+<Field Token="67109074" Name="RenMove" />
+<Field Token="67109075" Name="btnExitVisible" />
+<Field Token="67109076" Name="Msg" />
+<Field Token="67109077" Name="Datefrom" />
+<Field Token="67109078" Name="Datelast" />
+<Field Token="67109079" Name="Instance" />
+<Field Token="67109080" Name="components" />
+<Field Token="67109081" Name="btnBuy" />
+<Field Token="67109082" Name="lblMsg" />
+<Field Token="67109083" Name="btnClose" />
+<Field Token="67109084" Name="lblWait" />
+<Field Token="67109085" Name="timContinue" />
+<Field Token="67109086" Name="lblAppName" />
+<Field Token="67109087" Name="btnRegister" />
+<Field Token="67109088" Name="btnExit" />
+<Type Token="33554457" Name="CombinePDF4dots.DisplayMessageType1" />
+<Field Token="67109089" Name="value__" />
+<Field Token="67109090" Name="License_Expired" />
+<Field Token="67109091" Name="License_N_Days_Remaining" />
+<Type Token="33554458" Name="CombinePDF4dots.FuzzyMatch" />
+<Method Token="100663503" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663504" Name="ExtractPreviousFuzzyMatch" Variables="helpcolumn;shelp;istart;iend;" ParamCnt="1" />
+<Method Token="100663505" Name="SetFuzzyHelpColumnText" Variables="fuzzypercent;helpcolumn;shelp;istart;iend;ishelp;" ParamCnt="2" />
+<Method Token="100663506" Name="IsFuzzyMatchForReport" Variables="sNew;sOld;percent_fuzzy_from;percent_fuzzy_to;l;lp;" ParamCnt="4" />
+<Method Token="100663507" Name="IsFuzzyMatch" Variables="sNew;sOld;helpcolumn;l;lp;iprevious;shelp;f;e;ff;" ParamCnt="3" />
+<Type Token="33554459" Name="CombinePDF4dots.FuzzyMatchResult" />
+<Method Token="100663508" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109092" Name="IsFuzzy" />
+<Field Token="67109093" Name="helpcolumn" />
+<Type Token="33554460" Name="CombinePDF4dots.Levenshtein" />
+<Method Token="100663509" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663510" Name="iLD" Variables="this;sRow;sCol;RowLen;ColLen;RowIdx;ColIdx;Row_i;Col_j;cost;v0;v1;vTmp;m_min;b;c;max;" ParamCnt="3" />
+<Method Token="100663511" Name="Minimum" Variables="this;a;b;c;mi;" ParamCnt="4" />
+<Method Token="100663512" Name="LD" Variables="this;sNew;sOld;matrix;sNewLen;sOldLen;sNewIdx;sOldIdx;sNew_i;sOld_j;cost;max;" ParamCnt="3" />
+<Type Token="33554461" Name="CombinePDF4dots.ImageComboBox" />
+<Method Token="100663513" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663514" Name="get_ImageList" Variables="this;" ParamCnt="1" />
+<Method Token="100663515" Name="set_ImageList" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663516" Name="OnDrawItem" Variables="this;ea;item;imageSize;bounds;" ParamCnt="2" />
+<Field Token="67109094" Name="imageList" />
+<Type Token="33554462" Name="CombinePDF4dots.ComboBoxExItem" />
+<Method Token="100663517" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663518" Name=".ctor" Variables="this;text;" ParamCnt="2" />
+<Method Token="100663519" Name=".ctor" Variables="this;text;imageIndex;" ParamCnt="3" />
+<Method Token="100663520" Name="get_Text" Variables="this;" ParamCnt="1" />
+<Method Token="100663521" Name="set_Text" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663522" Name="get_ImageIndex" Variables="this;" ParamCnt="1" />
+<Method Token="100663523" Name="set_ImageIndex" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663524" Name="ToString" Variables="this;" ParamCnt="1" />
+<Field Token="67109095" Name="_text" />
+<Field Token="67109096" Name="_imageIndex" />
+<Type Token="33554463" Name="CombinePDF4dots.ImagesViewHelper" />
+<Method Token="100663525" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663526" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663527" Name="GetVolumeInformation" Variables="PathName;VolumeNameBuffer;VolumeNameSize;VolumeSerialNumber;MaximumComponentLength;FileSystemFlags;FileSystemNameBuffer;FileSystemNameSize;" ParamCnt="8" />
+<Method Token="100663528" Name="GeneratePreviewItems" Variables="sfilecontents;sr;e;strDriveLetter;serNum;maxCompLen;VolLabel;VolFlags;FSName;Ret;myba;data;key;iv;byteData;enc;tdes;ict;ex;elements;email;reg_key;myvl;datefrom;datelast;expired;ver;newversion;iver;icurver;datfrom1;userkey;encrypted_kleidi_xristi;kx;ky;myar;var1;var2;var3;var4;num_encrypt;first_time;enc2;le;lp;dtfrom;key;dtlast;" ParamCnt="0" />
+<Method Token="100663529" Name="ParseDate" Variables="datestr;" ParamCnt="1" />
+<Field Token="67109097" Name="DtFrom" />
+<Field Token="67109098" Name="DtLast" />
+<Type Token="33554464" Name="CombinePDF4dots.SettingsHelper" />
+<Method Token="100663530" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663531" Name=".cctor" Variables="" ParamCnt="0" />
+<Field Token="67109099" Name="RenMove" />
+<Type Token="33554465" Name="CombinePDF4dots.InputModeHelper" />
+<Method Token="100663532" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663533" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663534" Name="GetVolumeInformation" Variables="PathName;VolumeNameBuffer;VolumeNameSize;VolumeSerialNumber;MaximumComponentLength;FileSystemFlags;FileSystemNameBuffer;FileSystemNameSize;" ParamCnt="8" />
+<Method Token="100663535" Name="AnalyzeSearch" Variables="email;serNum;maxCompLen;VolLabel;VolFlags;FSName;strDriveLetter;Ret;myvl;userkey;encrypted_kleidi_xristi;data;key;iv;byteData;enc;tdes;ict;ex;postCgi;dataLine;uri;request;bytes;outputStream;response;responseStream;reader;exp;reg_key;sfilecontents;sr;myba;elements;k;licfile;sw;e;exmain;" ParamCnt="0" />
+<Method Token="100663536" Name="Bin2Hex" Variables="bin;sb;b;" ParamCnt="1" />
+<Field Token="67109100" Name="frmad" />
+<Type Token="33554466" Name="CombinePDF4dots.MiscHelper" />
+<Method Token="100663537" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663538" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663539" Name="CurrentDomain_ProcessExit" Variables="sender;e;fi;dt_create;dt_last_modified;dt_last_accessed;sfilecontents;sr;myba;data;key;iv;byteData;enc;tdes;ict;ex;elements;reg_key;email;k;dtfrom;key;mili;licfile;sw;fi_after;" ParamCnt="2" />
+<Method Token="100663540" Name="ParseDate" Variables="datestr;" ParamCnt="1" />
+<Field Token="67109101" Name="DateTimeFormat" />
+<Type Token="33554467" Name="CombinePDF4dots.Module" />
+<Method Token="100663541" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663542" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663543" Name="IsWordDocument" Variables="filepath;ext;" ParamCnt="1" />
+<Method Token="100663544" Name="get_TempFolder" Variables="path;" ParamCnt="0" />
+<Method Token="100663545" Name="SendMessage" Variables="hWnd;wMsg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663546" Name="LockWindowUpdate" Variables="hWndLock;" ParamCnt="1" />
+<Method Token="100663547" Name="WaitNMSeconds" Variables="mseconds;_desired;" ParamCnt="1" />
+<Method Token="100663548" Name="IsLegalFilename" Variables="name;fileInfo;" ParamCnt="1" />
+<Method Token="100663549" Name="GetRelativePath" Variables="mainDirPath;absoluteFilePath;firstPathParts;secondPathParts;sameCounter;i;newPath;" ParamCnt="2" />
+<Method Token="100663550" Name="ShowMessage" Variables="msg;" ParamCnt="1" />
+<Method Token="100663551" Name="ShowQuestionDialog" Variables="msg;caption;" ParamCnt="2" />
+<Method Token="100663552" Name="ShowError" Variables="ex;" ParamCnt="1" />
+<Method Token="100663553" Name="ShowError" Variables="msg;f;" ParamCnt="1" />
+<Method Token="100663554" Name="ShowError" Variables="msg;ex;" ParamCnt="2" />
+<Method Token="100663555" Name="ShowError" Variables="msg;exstr;" ParamCnt="2" />
+<Method Token="100663556" Name="CurrentDomain_ProcessExit" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663557" Name="ShowQuestionDialogYesFocus" Variables="msg;caption;" ParamCnt="2" />
+<Method Token="100663558" Name="IsAcceptableMediaInput" Variables="filepath;fi;" ParamCnt="1" />
+<Method Token="100663559" Name="get_Modex64" Variables="" ParamCnt="0" />
+<Method Token="100663560" Name="DownloadPage" Variables="uri;client;data;reader;s;ex;" ParamCnt="1" />
+<Method Token="100663561" Name="HexConverter" Variables="c;rtn;ex;" ParamCnt="1" />
+<Method Token="100663562" Name="DecimalToString" Variables="dec;" ParamCnt="1" />
+<Method Token="100663563" Name="DecimalToString" Variables="dec;decimal_places;format;k;" ParamCnt="2" />
+<Method Token="100663564" Name="StringToDecimal" Variables="str;epos;ihask;sintegral;integral_part;sdecimal;decimal_part;d10;k;ddecimal_part;ddec;dintegral_part;d;" ParamCnt="1" />
+<Method Token="100663565" Name="get_IsWindows64Bit" Variables="p;" ParamCnt="0" />
+<Field Token="67109102" Name="BlueForeColor" />
+<Field Token="67109103" Name="ApplicationName" />
+<Field Token="67109104" Name="Version" />
+<Field Token="67109105" Name="Ver" />
+<Field Token="67109106" Name="ShortApplicationTitle" />
+<Field Token="67109107" Name="ApplicationTitle" />
+<Field Token="67109108" Name="DownloadURL" />
+<Field Token="67109109" Name="HelpURL" />
+<Field Token="67109110" Name="ProductWebpageURL" />
+<Field Token="67109111" Name="BuyURL" />
+<Field Token="67109112" Name="VersionURL" />
+<Field Token="67109113" Name="TipText" />
+<Field Token="67109114" Name="GeneratedTemporaryFiles" />
+<Field Token="67109115" Name="OpenFilesFilter" />
+<Field Token="67109116" Name="OpenImagesFilter" />
+<Field Token="67109117" Name="AcceptableMediaInputPattern" />
+<Field Token="67109118" Name="AppDataDirectory" />
+<Field Token="67109119" Name="CurrentImagesDirectory" />
+<Field Token="67109120" Name="SelectedLanguage" />
+<Field Token="67109121" Name="args" />
+<Field Token="67109122" Name="IsCommandLine" />
+<Field Token="67109123" Name="IsFromWindowsExplorer" />
+<Field Token="67109124" Name="DoNotOverwriteFiles" />
+<Field Token="67109125" Name="AskBeforeOverwrite" />
+<Field Token="67109126" Name="LeaveSameDateTime" />
+<Field Token="67109127" Name="OutputFilepath" />
+<Field Token="67109128" Name="_Modex64" />
+<Type Token="33554468" Name="CombinePDF4dots.NiceLine" />
+<Method Token="100663566" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663567" Name="get_Caption" Variables="this;" ParamCnt="1" />
+<Method Token="100663568" Name="set_Caption" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663569" Name="get_CaptionMarginSpace" Variables="this;" ParamCnt="1" />
+<Method Token="100663570" Name="set_CaptionMarginSpace" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663571" Name="get_CaptionPadding" Variables="this;" ParamCnt="1" />
+<Method Token="100663572" Name="set_CaptionPadding" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663573" Name="get_LineVerticalAlign" Variables="this;" ParamCnt="1" />
+<Method Token="100663574" Name="set_LineVerticalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663575" Name="get_CaptionOrizontalAlign" Variables="this;" ParamCnt="1" />
+<Method Token="100663576" Name="set_CaptionOrizontalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663577" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663578" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Method Token="100663579" Name="OnPaint" Variables="this;e;ym;captionSizeF;captionLength;beforeCaption;afterCaption;" ParamCnt="2" />
+<Method Token="100663580" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663581" Name="OnFontChanged" Variables="this;e;" ParamCnt="2" />
+<Field Token="67109129" Name="components" />
+<Field Token="67109130" Name="_Caption" />
+<Field Token="67109131" Name="_CaptionMarginSpace" />
+<Field Token="67109132" Name="_CaptionPadding" />
+<Field Token="67109133" Name="_LineVerticalAlign" />
+<Field Token="67109134" Name="_CaptionOrizontalAlign" />
+<Type Token="33554469" Name="CombinePDF4dots.LineVerticalAlign" />
+<Field Token="67109135" Name="value__" />
+<Field Token="67109136" Name="Top" />
+<Field Token="67109137" Name="Middle" />
+<Field Token="67109138" Name="Bottom" />
+<Type Token="33554470" Name="CombinePDF4dots.CaptionOrizontalAlign" />
+<Field Token="67109139" Name="value__" />
+<Field Token="67109140" Name="Left" />
+<Field Token="67109141" Name="Center" />
+<Field Token="67109142" Name="Right" />
+<Type Token="33554471" Name="CombinePDF4dots.OfficeHelper" />
+<Method Token="100663582" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663583" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663584" Name="CreateWordApplication" Variables="wdAlertsNone;" ParamCnt="0" />
+<Method Token="100663585" Name="CreatePowerPointApplication" Variables="" ParamCnt="0" />
+<Method Token="100663586" Name="QuitPowerPointApplication" Variables="" ParamCnt="0" />
+<Method Token="100663587" Name="QuitWordApplication" Variables="" ParamCnt="0" />
+<Method Token="100663588" Name="CreateExcelApplication" Variables="" ParamCnt="0" />
+<Method Token="100663589" Name="QuitExcelApplication" Variables="" ParamCnt="0" />
+<Method Token="100663590" Name="QuitOfficeApplications" Variables="proc;" ParamCnt="0" />
+<Field Token="67109143" Name="WordApp" />
+<Field Token="67109144" Name="WordApplicationType" />
+<Field Token="67109145" Name="ExcelApp" />
+<Field Token="67109146" Name="PPApp" />
+<Field Token="67109147" Name="ExcelApplicationType" />
+<Field Token="67109148" Name="PPApplicationType" />
+<Type Token="33554472" Name="CombinePDF4dots.Program" />
+<Method Token="100663591" Name="FreeConsole" Variables="" ParamCnt="0" />
+<Method Token="100663592" Name="AttachConsole" Variables="dwProcessId;" ParamCnt="1" />
+<Method Token="100663593" Name="AllocConsole" Variables="" ParamCnt="0" />
+<Method Token="100663594" Name="Main" Variables="args;" ParamCnt="1" />
+<Field Token="67109149" Name="ATTACH_PARENT_PROCESS" />
+<Field Token="67109150" Name="ERROR_ACCESS_DENIED" />
+<Type Token="33554473" Name="CombinePDF4dots.RecentFilesHelper" />
+<Method Token="100663595" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663596" Name="FillMenuRecentFile" Variables="str;k;" ParamCnt="0" />
+<Method Token="100663597" Name="FillRecentOutputFile" Variables="str;k;" ParamCnt="0" />
+<Method Token="100663598" Name="FillMenuRecentFolder" Variables="str;k;" ParamCnt="0" />
+<Method Token="100663599" Name="FillMenuRecentImportList" Variables="str;k;" ParamCnt="0" />
+<Method Token="100663600" Name="AddRecentFile" Variables="filepath;str;strl;newrec;k;" ParamCnt="1" />
+<Method Token="100663601" Name="AddRecentOutputFile" Variables="filepath;str;strl;newrec;k;" ParamCnt="1" />
+<Method Token="100663602" Name="ImportListRecent" Variables="filepath;str;strl;newrec;k;" ParamCnt="1" />
+<Method Token="100663603" Name="AddRecentFolder" Variables="filepath;str;strl;newrec;k;" ParamCnt="1" />
+<Method Token="100663604" Name="ArrayToListString" Variables="str;strl;k;" ParamCnt="1" />
+<Type Token="33554474" Name="CombinePDF4dots.ResFlags" />
+<Method Token="100663605" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663606" Name="get_ResourceManager" Variables="temp;" ParamCnt="0" />
+<Method Token="100663607" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663608" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663609" Name="get_flag_albania" Variables="obj;" ParamCnt="0" />
+<Method Token="100663610" Name="get_flag_belarus" Variables="obj;" ParamCnt="0" />
+<Method Token="100663611" Name="get_flag_bulgaria" Variables="obj;" ParamCnt="0" />
+<Method Token="100663612" Name="get_flag_china" Variables="obj;" ParamCnt="0" />
+<Method Token="100663613" Name="get_flag_croatia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663614" Name="get_flag_czech_republic" Variables="obj;" ParamCnt="0" />
+<Method Token="100663615" Name="get_flag_denmark" Variables="obj;" ParamCnt="0" />
+<Method Token="100663616" Name="get_flag_estonia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663617" Name="get_flag_finland" Variables="obj;" ParamCnt="0" />
+<Method Token="100663618" Name="get_flag_france" Variables="obj;" ParamCnt="0" />
+<Method Token="100663619" Name="get_flag_georgia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663620" Name="get_flag_germany" Variables="obj;" ParamCnt="0" />
+<Method Token="100663621" Name="get_flag_great_britain" Variables="obj;" ParamCnt="0" />
+<Method Token="100663622" Name="get_flag_greece" Variables="obj;" ParamCnt="0" />
+<Method Token="100663623" Name="get_flag_hungary" Variables="obj;" ParamCnt="0" />
+<Method Token="100663624" Name="get_flag_iceland" Variables="obj;" ParamCnt="0" />
+<Method Token="100663625" Name="get_flag_india" Variables="obj;" ParamCnt="0" />
+<Method Token="100663626" Name="get_flag_indonesia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663627" Name="get_flag_iran" Variables="obj;" ParamCnt="0" />
+<Method Token="100663628" Name="get_flag_ireland" Variables="obj;" ParamCnt="0" />
+<Method Token="100663629" Name="get_flag_israel" Variables="obj;" ParamCnt="0" />
+<Method Token="100663630" Name="get_flag_italy" Variables="obj;" ParamCnt="0" />
+<Method Token="100663631" Name="get_flag_japan" Variables="obj;" ParamCnt="0" />
+<Method Token="100663632" Name="get_flag_kenya" Variables="obj;" ParamCnt="0" />
+<Method Token="100663633" Name="get_flag_latvia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663634" Name="get_flag_lithuania" Variables="obj;" ParamCnt="0" />
+<Method Token="100663635" Name="get_flag_netherlands" Variables="obj;" ParamCnt="0" />
+<Method Token="100663636" Name="get_flag_norway" Variables="obj;" ParamCnt="0" />
+<Method Token="100663637" Name="get_flag_pakistan" Variables="obj;" ParamCnt="0" />
+<Method Token="100663638" Name="get_flag_philippines" Variables="obj;" ParamCnt="0" />
+<Method Token="100663639" Name="get_flag_poland" Variables="obj;" ParamCnt="0" />
+<Method Token="100663640" Name="get_flag_portugal" Variables="obj;" ParamCnt="0" />
+<Method Token="100663641" Name="get_flag_romania" Variables="obj;" ParamCnt="0" />
+<Method Token="100663642" Name="get_flag_russia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663643" Name="get_flag_saudi_arabia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663644" Name="get_flag_serbia_montenegro" Variables="obj;" ParamCnt="0" />
+<Method Token="100663645" Name="get_flag_slovakia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663646" Name="get_flag_slovenia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663647" Name="get_flag_south_africa" Variables="obj;" ParamCnt="0" />
+<Method Token="100663648" Name="get_flag_south_korea" Variables="obj;" ParamCnt="0" />
+<Method Token="100663649" Name="get_flag_spain" Variables="obj;" ParamCnt="0" />
+<Method Token="100663650" Name="get_flag_sweden" Variables="obj;" ParamCnt="0" />
+<Method Token="100663651" Name="get_flag_taiwan" Variables="obj;" ParamCnt="0" />
+<Method Token="100663652" Name="get_flag_thailand" Variables="obj;" ParamCnt="0" />
+<Method Token="100663653" Name="get_flag_turkey" Variables="obj;" ParamCnt="0" />
+<Method Token="100663654" Name="get_flag_ukraine" Variables="obj;" ParamCnt="0" />
+<Method Token="100663655" Name="get_flag_vietnam" Variables="obj;" ParamCnt="0" />
+<Field Token="67109151" Name="resourceMan" />
+<Field Token="67109152" Name="resourceCulture" />
+<Type Token="33554475" Name="CombinePDF4dots.ResRegister" />
+<Method Token="100663656" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663657" Name="get_ResourceManager" Variables="temp;" ParamCnt="0" />
+<Method Token="100663658" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663659" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663660" Name="get_Add_new_search_item_to_project" Variables="" ParamCnt="0" />
+<Method Token="100663661" Name="get_Continue_activated_search_" Variables="" ParamCnt="0" />
+<Method Token="100663662" Name="get_Direct_search_started" Variables="" ParamCnt="0" />
+<Method Token="100663663" Name="get_Edit_4dots_Project" Variables="" ParamCnt="0" />
+<Method Token="100663664" Name="get_Erroneous_search_2" Variables="" ParamCnt="0" />
+<Method Token="100663665" Name="get_Error_1" Variables="" ParamCnt="0" />
+<Method Token="100663666" Name="get_Error_12" Variables="" ParamCnt="0" />
+<Method Token="100663667" Name="get_Error_4" Variables="" ParamCnt="0" />
+<Method Token="100663668" Name="get_Import_search_result" Variables="" ParamCnt="0" />
+<Method Token="100663669" Name="get_Init_Project" Variables="" ParamCnt="0" />
+<Method Token="100663670" Name="get_MessageTitle" Variables="" ParamCnt="0" />
+<Method Token="100663671" Name="get_MessageTitle7" Variables="" ParamCnt="0" />
+<Method Token="100663672" Name="get_MessageTitle8" Variables="" ParamCnt="0" />
+<Method Token="100663673" Name="get_Search_duration_process" Variables="" ParamCnt="0" />
+<Method Token="100663674" Name="get_String1" Variables="" ParamCnt="0" />
+<Method Token="100663675" Name="get_Uniform_process" Variables="" ParamCnt="0" />
+<Method Token="100663676" Name="get_Αλλαγή_Ονόματος" Variables="" ParamCnt="0" />
+<Method Token="100663677" Name="get_Αλλαγή_στοιχείων_εικόνας" Variables="" ParamCnt="0" />
+<Method Token="100663678" Name="get_Αλλαγή_Φίλτρου_Εικόνας" Variables="" ParamCnt="0" />
+<Method Token="100663679" Name="get_Ανανέωση_Εικόνας" Variables="" ParamCnt="0" />
+<Method Token="100663680" Name="get_Εισαγωγή_Εικόνας" Variables="" ParamCnt="0" />
+<Method Token="100663681" Name="get_Εναλλαγή_Εικόνας" Variables="" ParamCnt="0" />
+<Method Token="100663682" Name="get_Καθορισμός_Ονόματος" Variables="" ParamCnt="0" />
+<Method Token="100663683" Name="get_Μορφοποίηση_Εικόνας" Variables="" ParamCnt="0" />
+<Method Token="100663684" Name="get_Νέα_Εικόνα" Variables="" ParamCnt="0" />
+<Method Token="100663685" Name="get_Παράμετροι_Μετρήσεως_Εικόνας" Variables="" ParamCnt="0" />
+<Method Token="100663686" Name="get_Περιγραφή_Ονόματος" Variables="" ParamCnt="0" />
+<Method Token="100663687" Name="get_Πηγή_Εικόνας" Variables="" ParamCnt="0" />
+<Method Token="100663688" Name="get_Προβολή_Εικόνας_1" Variables="" ParamCnt="0" />
+<Method Token="100663689" Name="get_Προβολή_Εικόνων" Variables="" ParamCnt="0" />
+<Method Token="100663690" Name="get_Σφάλμα_120" Variables="" ParamCnt="0" />
+<Method Token="100663691" Name="get_Σφάλμα_1201" Variables="" ParamCnt="0" />
+<Method Token="100663692" Name="get_Υπολογισμός_Επιφάνειας" Variables="" ParamCnt="0" />
+<Method Token="100663693" Name="get_Φίλτρο_Εικόνας" Variables="" ParamCnt="0" />
+<Field Token="67109153" Name="resourceMan" />
+<Field Token="67109154" Name="resourceCulture" />
+<Type Token="33554476" Name="CombinePDF4dots.ResTranslate" />
+<Method Token="100663694" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663695" Name="get_ResourceManager" Variables="temp;" ParamCnt="0" />
+<Method Token="100663696" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663697" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Field Token="67109155" Name="resourceMan" />
+<Field Token="67109156" Name="resourceCulture" />
+<Type Token="33554477" Name="CombinePDF4dots.TranslateHelper" />
+<Method Token="100663698" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663699" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663700" Name="Translate" Variables="str;cm;trnstr;" ParamCnt="1" />
+<Field Token="67109157" Name="rm" />
+<Field Token="67109158" Name="rm2" />
+<Type Token="33554478" Name="CombinePDF4dots.ucTextProgressBar" />
+<Method Token="100663701" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663702" Name="SetText" Variables="this;str;" ParamCnt="2" />
+<Method Token="100663703" Name="UpdatePercentage" Variables="this;curval;maxval;perc;" ParamCnt="1" />
+<Method Token="100663704" Name="zOnPaint" Variables="this;e;brBack;curval;maxval;perc;rangerect;font;fillBrush;sPoint;p;" ParamCnt="2" />
+<Method Token="100663705" Name="WndProc" Variables="this;m;graphics;font;textSize;" ParamCnt="2" />
+<Method Token="100663706" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663707" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67109159" Name="WmPaint" />
+<Field Token="67109160" Name="lblText" />
+<Field Token="67109161" Name="components" />
+<Type Token="33554479" Name="CombinePDF4dots.UpdateHelper" />
+<Method Token="100663708" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663709" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663710" Name="InitializeCheckVersionWeek" Variables="lastcheck;month;day;year;dtlast;" ParamCnt="0" />
+<Method Token="100663711" Name="InitializeCheckVersion" Variables="" ParamCnt="0" />
+<Method Token="100663712" Name="bwCheckVersion_ProgressChanged" Variables="sender;e;res;fdu;resq;" ParamCnt="2" />
+<Method Token="100663713" Name="bwCheckVersion_RunWorkerCompleted" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663714" Name="bwCheckVersion_DoWork" Variables="sender;e;res;" ParamCnt="2" />
+<Method Token="100663715" Name="CheckVersionBackground" Variables="onstart;res;str;epos;price;sr;line;found;title;version;verdotpos;vermajor;verminor;curverepos;curver;dotpos;curmajor;curminor;app;" ParamCnt="0" />
+<Method Token="100663716" Name="DownloadPage" Variables="uri;client;data;reader;s;ex;" ParamCnt="1" />
+<Method Token="100663717" Name="CheckVersion" Variables="onstart;str;sr;line;found;epos;title;version;app;" ParamCnt="1" />
+<Field Token="67109162" Name="bwCheckVersion" />
+<Type Token="33554480" Name="CombinePDF4dots.CheckVersionResult" />
+<Method Token="100663718" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109163" Name="NewVersionReleased" />
+<Field Token="67109164" Name="ItIsNecessaryToUpdate" />
+<Field Token="67109165" Name="OutputMessage" />
+<Type Token="33554481" Name="CombinePDF4dots.URLLinkLabel" />
+<Method Token="100663719" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663720" Name="OnClick" Variables="this;e;" ParamCnt="2" />
+<Type Token="33554482" Name="CombinePDF4dots.WordHelper" />
+<Method Token="100663721" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663722" Name="MergePDF" Variables="dt;outputFilepath;wdSectionBreakContinuous;wdCollapseEnd;wdStory;lstfilez;k;initialOutputFilepath;oDocuments;doc;oSelection;wdGoToLine;wdGoToLast;max;LastSectionsCount;oSectionsDocCount;LastStartPage;kk;oContent;doc1;oSection;oHeaders;oHeadersCount;oFooters;oFootersCount;wdFormatOriginalFormatting;y;wdHeaderFooterPrimary;oHeaderExists;bHeaderExists;oHeadersRange;oSectionsDoc;d;oSectionDoc2;yk;oHeadersDoc;wdHeaderFooterEvenPages;wdHeaderFooterFirstPage;wdHeaderFooterPrimary2;oPageNumbers;oHeadersRangeDoc;iheadco;iSectionsDocCount;yy;oHeadersRangeDocFields;oHeadersRangeDocFieldsCount;wdFieldSequence;wdFieldEmpty;wdFieldRef;e;dif;ecount;hrc;doexit;oav;oview;hrc3;oHeadersRangeDocField;oHeadersRangeDocFieldType;wdFieldNumPages;iwdFieldNumPages;wdFieldPage;iwdFieldPage;wdFieldSectionPages;hdft;oRange;oStart;strf;off;of1;ofcode;ofind;ofindexec;hrc2;wdSectionBreakNextPage;oSelFields;bk;oBookmarks;wdFieldSet;wdGoToPage;bk2;oav2;oview2;oEndOfDoc;obsb;obsbran;docfields1;docfields1Count;idocfields1Count;w;df1;doccon;docconf;docconfc;idocf;docconfield;" ParamCnt="2" />
+<Type Token="33554483" Name="CombinePDF4dots.Properties.Resources" />
+<Method Token="100663723" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663724" Name="get_ResourceManager" Variables="temp;" ParamCnt="0" />
+<Method Token="100663725" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663726" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663727" Name="get__4dots_logo_official" Variables="obj;" ParamCnt="0" />
+<Method Token="100663728" Name="get__4dots_logo_official_icon" Variables="obj;" ParamCnt="0" />
+<Method Token="100663729" Name="get_about" Variables="obj;" ParamCnt="0" />
+<Method Token="100663730" Name="get_add" Variables="obj;" ParamCnt="0" />
+<Method Token="100663731" Name="get_add1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663732" Name="get_arrow_down_green" Variables="obj;" ParamCnt="0" />
+<Method Token="100663733" Name="get_arrow_down_green1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663734" Name="get_arrow_left_blue" Variables="obj;" ParamCnt="0" />
+<Method Token="100663735" Name="get_arrow_right_blue" Variables="obj;" ParamCnt="0" />
+<Method Token="100663736" Name="get_arrow_up_green" Variables="obj;" ParamCnt="0" />
+<Method Token="100663737" Name="get_arrow_up_green1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663738" Name="get_brush2" Variables="obj;" ParamCnt="0" />
+<Method Token="100663739" Name="get_brush4" Variables="obj;" ParamCnt="0" />
+<Method Token="100663740" Name="get_bullet_ball_glass_blue" Variables="obj;" ParamCnt="0" />
+<Method Token="100663741" Name="get_bullet_ball_glass_blue_16" Variables="obj;" ParamCnt="0" />
+<Method Token="100663742" Name="get_bullet_ball_glass_green" Variables="obj;" ParamCnt="0" />
+<Method Token="100663743" Name="get_bullet_ball_glass_red" Variables="obj;" ParamCnt="0" />
+<Method Token="100663744" Name="get_bullet_ball_glass_yellow" Variables="obj;" ParamCnt="0" />
+<Method Token="100663745" Name="get_cart_icon_b_24" Variables="obj;" ParamCnt="0" />
+<Method Token="100663746" Name="get_check" Variables="obj;" ParamCnt="0" />
+<Method Token="100663747" Name="get_combine_word_documents_48" Variables="obj;" ParamCnt="0" />
+<Method Token="100663748" Name="get_copy" Variables="obj;" ParamCnt="0" />
+<Method Token="100663749" Name="get_copy1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663750" Name="get_cut" Variables="obj;" ParamCnt="0" />
+<Method Token="100663751" Name="get_delete" Variables="obj;" ParamCnt="0" />
+<Method Token="100663752" Name="get_delete1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663753" Name="get_disk_blue" Variables="obj;" ParamCnt="0" />
+<Method Token="100663754" Name="get_document_into" Variables="obj;" ParamCnt="0" />
+<Method Token="100663755" Name="get_document_preferences" Variables="obj;" ParamCnt="0" />
+<Method Token="100663756" Name="get_earth" Variables="obj;" ParamCnt="0" />
+<Method Token="100663757" Name="get_edit" Variables="obj;" ParamCnt="0" />
+<Method Token="100663758" Name="get_exit" Variables="obj;" ParamCnt="0" />
+<Method Token="100663759" Name="get_exit1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663760" Name="get_facebook_24" Variables="obj;" ParamCnt="0" />
+<Method Token="100663761" Name="get_facebook_32" Variables="obj;" ParamCnt="0" />
+<Method Token="100663762" Name="get_flash" Variables="obj;" ParamCnt="0" />
+<Method Token="100663763" Name="get_flash1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663764" Name="get_folder" Variables="obj;" ParamCnt="0" />
+<Method Token="100663765" Name="get_folder_add" Variables="obj;" ParamCnt="0" />
+<Method Token="100663766" Name="get_folder1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663767" Name="get_googleplus_24" Variables="obj;" ParamCnt="0" />
+<Method Token="100663768" Name="get_help2" Variables="obj;" ParamCnt="0" />
+<Method Token="100663769" Name="get_import1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663770" Name="get_information" Variables="obj;" ParamCnt="0" />
+<Method Token="100663771" Name="get_key1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663772" Name="get_linkedin_24" Variables="obj;" ParamCnt="0" />
+<Method Token="100663773" Name="get_mail" Variables="obj;" ParamCnt="0" />
+<Method Token="100663774" Name="get_media_pause" Variables="obj;" ParamCnt="0" />
+<Method Token="100663775" Name="get_media_stop" Variables="obj;" ParamCnt="0" />
+<Method Token="100663776" Name="get_navigate_beginning" Variables="obj;" ParamCnt="0" />
+<Method Token="100663777" Name="get_navigate_end" Variables="obj;" ParamCnt="0" />
+<Method Token="100663778" Name="get_paste" Variables="obj;" ParamCnt="0" />
+<Method Token="100663779" Name="get_preferences" Variables="obj;" ParamCnt="0" />
+<Method Token="100663780" Name="get_twitter_24" Variables="obj;" ParamCnt="0" />
+<Method Token="100663781" Name="get_twitter_32" Variables="obj;" ParamCnt="0" />
+<Method Token="100663782" Name="get_warning" Variables="obj;" ParamCnt="0" />
+<Field Token="67109166" Name="resourceMan" />
+<Field Token="67109167" Name="resourceCulture" />
+<Type Token="33554484" Name="CombinePDF4dots.Properties.Settings" />
+<Method Token="100663783" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663784" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663785" Name="get_Default" Variables="" ParamCnt="0" />
+<Method Token="100663786" Name="get_Language" Variables="this;" ParamCnt="1" />
+<Method Token="100663787" Name="set_Language" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663788" Name="get_Price" Variables="this;" ParamCnt="1" />
+<Method Token="100663789" Name="set_Price" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663790" Name="get_LastCheckVersion" Variables="this;" ParamCnt="1" />
+<Method Token="100663791" Name="set_LastCheckVersion" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663792" Name="get_AddFilesRecent" Variables="this;" ParamCnt="1" />
+<Method Token="100663793" Name="set_AddFilesRecent" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663794" Name="get_AddFolderRecent" Variables="this;" ParamCnt="1" />
+<Method Token="100663795" Name="set_AddFolderRecent" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663796" Name="get_Maximized" Variables="this;" ParamCnt="1" />
+<Method Token="100663797" Name="set_Maximized" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663798" Name="get_ExploreDocumentOnFinish" Variables="this;" ParamCnt="1" />
+<Method Token="100663799" Name="set_ExploreDocumentOnFinish" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663800" Name="get_Width" Variables="this;" ParamCnt="1" />
+<Method Token="100663801" Name="set_Width" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663802" Name="get_Height" Variables="this;" ParamCnt="1" />
+<Method Token="100663803" Name="set_Height" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663804" Name="get_Left" Variables="this;" ParamCnt="1" />
+<Method Token="100663805" Name="set_Left" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663806" Name="get_Top" Variables="this;" ParamCnt="1" />
+<Method Token="100663807" Name="set_Top" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663808" Name="get_ImportListRecent" Variables="this;" ParamCnt="1" />
+<Method Token="100663809" Name="set_ImportListRecent" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663810" Name="get_SortDescendingOrder" Variables="this;" ParamCnt="1" />
+<Method Token="100663811" Name="set_SortDescendingOrder" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663812" Name="get_NumericStringSort" Variables="this;" ParamCnt="1" />
+<Method Token="100663813" Name="set_NumericStringSort" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663814" Name="get_RecentOutputFiles" Variables="this;" ParamCnt="1" />
+<Method Token="100663815" Name="set_RecentOutputFiles" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663816" Name="get_ShowMessage" Variables="this;" ParamCnt="1" />
+<Method Token="100663817" Name="set_ShowMessage" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663818" Name="get_KeepFormat" Variables="this;" ParamCnt="1" />
+<Method Token="100663819" Name="set_KeepFormat" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663820" Name="get_ResetNumering" Variables="this;" ParamCnt="1" />
+<Method Token="100663821" Name="set_ResetNumering" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663822" Name="get_CopyHeaders" Variables="this;" ParamCnt="1" />
+<Method Token="100663823" Name="set_CopyHeaders" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663824" Name="get_CopyFooters" Variables="this;" ParamCnt="1" />
+<Method Token="100663825" Name="set_CopyFooters" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663826" Name="get_ReplaceNumPages" Variables="this;" ParamCnt="1" />
+<Method Token="100663827" Name="set_ReplaceNumPages" Variables="this;value;" ParamCnt="2" />
+<Field Token="67109168" Name="defaultInstance" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663307" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly><File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\ArgsHelper.cs" NewName="File0" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\FileSorter.cs" NewName="File1" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\ContextMenuHelper.cs" NewName="File2" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\CustomForm.cs" NewName="File3" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\CustomForm.designer.cs" NewName="File4" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\ExceptionHandlersHelper.cs" NewName="File5" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmAbout2.cs" NewName="File6" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmAbout2.designer.cs" NewName="File7" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmAdeia.cs" NewName="File8" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmAdeia.designer.cs" NewName="File9" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmDownloadUpdate.cs" NewName="File10" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmDownloadUpdate.Designer.cs" NewName="File11" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmError.cs" NewName="File12" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmError.Designer.cs" NewName="File13" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmLanguage.cs" NewName="File14" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmLanguage.designer.cs" NewName="File15" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmMain.cs" NewName="File16" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmMain.Designer.cs" NewName="File17" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmMessage.cs" NewName="File18" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmMessage.designer.cs" NewName="File19" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmPleaseBuy.cs" NewName="File20" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmPleaseBuy.Designer.cs" NewName="File21" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmProgress.cs" NewName="File22" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmProgress.designer.cs" NewName="File23" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmPurchase.cs" NewName="File24" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\frmPurchase.Designer.cs" NewName="File25" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\FuzzyMatchResult.cs" NewName="File26" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\ImageComboBox.cs" NewName="File27" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\ImagesViewHelper.cs" NewName="File28" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\InputModeHelper.cs" NewName="File29" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\MiscHelper.cs" NewName="File30" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\Module.cs" NewName="File31" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\NiceLine.cs" NewName="File32" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\OfficeHelper.cs" NewName="File33" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\Program.cs" NewName="File34" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\RecentFilesHelper.cs" NewName="File35" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\ResFlags.Designer.cs" NewName="File36" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\ResRegister.Designer.cs" NewName="File37" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\ResTranslate.Designer.cs" NewName="File38" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\TranslateHelper.cs" NewName="File39" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\ucTextProgressBar.cs" NewName="File40" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\ucTextProgressBar.Designer.cs" NewName="File41" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\UpdateHelper.cs" NewName="File42" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\URLLinkLabel.cs" NewName="File43" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\WordHelper.cs" NewName="File44" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\Properties\Resources.Designer.cs" NewName="File45" />
+<File OldName="c:\code\Office Utilities\CombinePDF4dots\CombinePDF4dots\Properties\Settings.Designer.cs" NewName="File46" />
+</Mappings>

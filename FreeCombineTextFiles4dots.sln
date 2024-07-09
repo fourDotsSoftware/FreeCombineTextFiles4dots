@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeCombineTextFiles4dots", "FreeCombineTextFiles4dots\FreeCombineTextFiles4dots.csproj", "{D621CA48-04D8-444C-80D2-7EB23E92C014}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeCombinePDFFolderWatcher", "FreeCombinePDFFolderWatcher\FreeCombinePDFFolderWatcher.csproj", "{8896F667-EDFA-41AD-94CA-FCD2B64B6B31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeCombinePDFInstaller", "FreeCombinePDFInstaller\FreeCombinePDFInstaller.csproj", "{0A5843D9-0E1E-4713-B88E-7D99ABA45045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D621CA48-04D8-444C-80D2-7EB23E92C014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D621CA48-04D8-444C-80D2-7EB23E92C014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D621CA48-04D8-444C-80D2-7EB23E92C014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D621CA48-04D8-444C-80D2-7EB23E92C014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8896F667-EDFA-41AD-94CA-FCD2B64B6B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8896F667-EDFA-41AD-94CA-FCD2B64B6B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8896F667-EDFA-41AD-94CA-FCD2B64B6B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8896F667-EDFA-41AD-94CA-FCD2B64B6B31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A5843D9-0E1E-4713-B88E-7D99ABA45045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5843D9-0E1E-4713-B88E-7D99ABA45045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5843D9-0E1E-4713-B88E-7D99ABA45045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5843D9-0E1E-4713-B88E-7D99ABA45045}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
